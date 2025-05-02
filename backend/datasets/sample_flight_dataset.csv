@@ -1,0 +1,1001 @@
+airline,flight,source_city,departure_time,stops,arrival_time,destination_city,class,duration,days_left,price,date
+SpiceJet,8102,Chennai,Afternoon,0,Morning,Hyderabad,Economy,1.84,38,2495,1/1/2023
+Vistara,8312,Delhi,Afternoon,1,Morning,Pune,Business,2.67,46,13372,1/2/2023
+IndiGo,6320,Delhi,Morning,1,Night,Pune,Economy,2.43,2,7822,1/3/2023
+SpiceJet,7132,Delhi,Afternoon,0,Night,Pune,Business,4.65,27,14122,1/4/2023
+SpiceJet,8891,Chennai,Morning,2,Afternoon,Pune,Economy,1.16,36,4072,1/5/2023
+Vistara,3779,Chennai,Morning,0,Morning,Pune,Economy,3.05,11,9795,1/6/2023
+IndiGo,1924,Chennai,Night,0,Evening,Kolkata,Business,3.72,47,10529,1/7/2023
+IndiGo,2581,Chennai,Evening,1,Night,Kolkata,Business,4.73,18,5949,1/8/2023
+SpiceJet,8714,Bangalore,Night,0,Evening,Goa,Economy,3.48,59,8033,1/9/2023
+Air India,4324,Bangalore,Evening,1,Night,Kolkata,Business,4.22,1,13300,1/10/2023
+SpiceJet,6713,Mumbai,Evening,2,Afternoon,Goa,Business,1.33,35,12009,1/11/2023
+SpiceJet,8026,Chennai,Evening,2,Morning,Goa,Business,2.54,35,10328,1/12/2023
+SpiceJet,1255,Bangalore,Afternoon,2,Night,Hyderabad,Business,2.5,31,4555,1/13/2023
+SpiceJet,5804,Delhi,Night,0,Morning,Pune,Business,4.55,28,8370,1/14/2023
+Vistara,2838,Chennai,Evening,1,Evening,Kolkata,Business,1.61,39,6415,1/15/2023
+IndiGo,1009,Mumbai,Morning,2,Afternoon,Hyderabad,Business,1.61,1,7959,1/16/2023
+Vistara,3871,Mumbai,Afternoon,1,Morning,Kolkata,Business,2.31,25,11107,1/17/2023
+Vistara,9989,Mumbai,Night,1,Afternoon,Goa,Economy,1.22,43,7993,1/18/2023
+Vistara,8409,Delhi,Evening,2,Morning,Kolkata,Business,1.73,38,13730,1/19/2023
+SpiceJet,8418,Bangalore,Morning,2,Evening,Pune,Economy,4.86,20,7021,1/20/2023
+Air India,6124,Delhi,Night,1,Evening,Goa,Business,2.71,3,12292,1/21/2023
+IndiGo,2015,Chennai,Night,2,Afternoon,Goa,Business,3.53,51,4907,1/22/2023
+Air India,3193,Mumbai,Afternoon,1,Evening,Hyderabad,Business,3.9,2,4914,1/23/2023
+Vistara,9415,Delhi,Night,1,Night,Pune,Business,2.47,18,12174,1/24/2023
+Vistara,8449,Delhi,Afternoon,2,Morning,Goa,Economy,1.59,44,5870,1/25/2023
+Air India,5158,Bangalore,Evening,0,Evening,Pune,Economy,1.83,10,14720,1/26/2023
+Air India,4925,Bangalore,Afternoon,2,Night,Kolkata,Business,2.25,5,13759,1/27/2023
+Air India,7970,Mumbai,Morning,0,Afternoon,Pune,Economy,3.54,9,11190,1/28/2023
+Vistara,7938,Delhi,Afternoon,1,Night,Goa,Business,2.59,2,12339,1/29/2023
+Vistara,5784,Delhi,Morning,1,Afternoon,Hyderabad,Business,1.03,34,7085,1/30/2023
+IndiGo,5000,Bangalore,Afternoon,0,Afternoon,Goa,Economy,3.09,38,14886,1/1/2023
+IndiGo,2633,Delhi,Night,1,Morning,Pune,Economy,4.69,31,8546,1/2/2023
+Vistara,8266,Delhi,Evening,0,Morning,Pune,Business,4.25,10,2395,1/3/2023
+Air India,9702,Delhi,Morning,0,Night,Goa,Business,4.3,50,13790,1/4/2023
+Air India,1384,Bangalore,Afternoon,1,Morning,Pune,Economy,4.18,12,14702,1/5/2023
+IndiGo,1404,Mumbai,Afternoon,0,Morning,Kolkata,Business,2.29,36,2938,1/6/2023
+Vistara,9175,Chennai,Afternoon,2,Morning,Goa,Economy,4.06,54,11828,1/7/2023
+IndiGo,3000,Mumbai,Night,2,Night,Hyderabad,Business,1.57,21,12916,1/8/2023
+IndiGo,6989,Chennai,Night,1,Evening,Goa,Business,3.63,49,4510,1/9/2023
+SpiceJet,2460,Delhi,Morning,1,Morning,Kolkata,Economy,3.57,47,6636,1/10/2023
+SpiceJet,8190,Mumbai,Morning,0,Morning,Kolkata,Economy,1.1,6,3649,1/11/2023
+SpiceJet,8140,Chennai,Night,0,Night,Kolkata,Economy,4.15,48,5690,1/12/2023
+Air India,4636,Bangalore,Morning,0,Evening,Kolkata,Business,4.61,49,5435,1/13/2023
+Vistara,5809,Bangalore,Evening,0,Morning,Kolkata,Business,2.07,3,5201,1/14/2023
+Vistara,5178,Mumbai,Evening,2,Afternoon,Hyderabad,Business,4.25,10,6179,1/15/2023
+Vistara,8245,Mumbai,Night,2,Night,Pune,Business,1.33,5,14558,1/16/2023
+Vistara,7600,Delhi,Morning,1,Morning,Kolkata,Economy,3.4,46,12483,1/17/2023
+SpiceJet,6997,Mumbai,Afternoon,0,Morning,Kolkata,Business,2.94,26,14675,1/18/2023
+Air India,3048,Delhi,Evening,0,Afternoon,Goa,Business,3.18,21,10405,1/19/2023
+Air India,5780,Delhi,Night,1,Afternoon,Hyderabad,Business,4.7,45,5237,1/20/2023
+SpiceJet,1716,Bangalore,Morning,0,Night,Hyderabad,Economy,4.49,26,5862,1/21/2023
+Air India,8939,Bangalore,Night,0,Night,Pune,Business,4.14,38,2058,1/22/2023
+SpiceJet,6565,Chennai,Afternoon,0,Afternoon,Hyderabad,Business,2.09,44,13122,1/23/2023
+Vistara,5544,Bangalore,Evening,0,Night,Goa,Economy,4.65,26,6938,1/24/2023
+SpiceJet,5976,Bangalore,Night,0,Afternoon,Goa,Business,1.39,8,4971,1/25/2023
+Vistara,4419,Mumbai,Night,1,Morning,Pune,Business,4.41,5,11719,1/26/2023
+Vistara,8239,Bangalore,Night,0,Afternoon,Goa,Economy,2.31,15,10314,1/27/2023
+IndiGo,1249,Chennai,Afternoon,1,Afternoon,Kolkata,Business,1.22,59,13911,1/28/2023
+SpiceJet,9865,Mumbai,Night,0,Evening,Kolkata,Business,3.68,16,11628,1/29/2023
+IndiGo,1770,Chennai,Afternoon,2,Afternoon,Goa,Business,1.93,1,11354,1/30/2023
+SpiceJet,5363,Bangalore,Afternoon,2,Afternoon,Pune,Economy,1.97,16,13492,1/1/2023
+SpiceJet,2077,Chennai,Afternoon,2,Evening,Hyderabad,Business,2.22,37,5345,1/2/2023
+IndiGo,9427,Mumbai,Evening,2,Night,Pune,Business,1.25,3,4486,1/3/2023
+IndiGo,9580,Delhi,Evening,1,Evening,Hyderabad,Economy,1.71,52,2561,1/4/2023
+SpiceJet,8901,Chennai,Night,1,Morning,Goa,Economy,1.02,47,5981,1/5/2023
+Air India,5858,Chennai,Night,0,Evening,Goa,Business,2.78,31,8261,1/6/2023
+Vistara,7544,Mumbai,Evening,2,Morning,Kolkata,Business,1.34,13,3737,1/7/2023
+IndiGo,5719,Mumbai,Morning,1,Night,Hyderabad,Business,3.73,56,11096,1/8/2023
+Vistara,3814,Chennai,Evening,0,Evening,Pune,Business,1.94,16,5554,1/9/2023
+Air India,4374,Bangalore,Afternoon,0,Evening,Goa,Economy,4.77,55,14682,1/10/2023
+Air India,2252,Chennai,Evening,1,Night,Pune,Business,4.49,43,11918,1/11/2023
+Air India,7996,Mumbai,Afternoon,2,Morning,Kolkata,Economy,2.16,21,13115,1/12/2023
+IndiGo,5673,Delhi,Night,0,Evening,Hyderabad,Economy,4.13,2,13723,1/13/2023
+Air India,5530,Delhi,Morning,2,Morning,Hyderabad,Business,4.21,54,14098,1/14/2023
+IndiGo,7881,Bangalore,Night,2,Evening,Goa,Business,4.95,27,11126,1/15/2023
+Air India,7949,Chennai,Afternoon,2,Afternoon,Hyderabad,Economy,3.39,38,9095,1/16/2023
+Vistara,7241,Delhi,Afternoon,0,Evening,Goa,Economy,1.33,26,10266,1/17/2023
+Vistara,9017,Chennai,Afternoon,2,Night,Kolkata,Business,3.59,58,2294,1/18/2023
+SpiceJet,7941,Mumbai,Morning,0,Night,Hyderabad,Economy,3.5,59,10212,1/19/2023
+Vistara,8002,Delhi,Evening,2,Morning,Goa,Business,3.55,38,13434,1/20/2023
+SpiceJet,2331,Bangalore,Night,0,Evening,Pune,Business,2.23,46,11230,1/21/2023
+Vistara,5261,Mumbai,Night,2,Morning,Goa,Economy,4.44,25,7330,1/22/2023
+IndiGo,8648,Bangalore,Evening,1,Morning,Hyderabad,Economy,4.84,11,6655,1/23/2023
+Vistara,6115,Mumbai,Night,2,Afternoon,Kolkata,Business,1.87,8,3109,1/24/2023
+SpiceJet,5637,Delhi,Morning,2,Afternoon,Hyderabad,Economy,1.35,8,5771,1/25/2023
+SpiceJet,5854,Bangalore,Night,0,Night,Hyderabad,Business,1.78,33,10563,1/26/2023
+Air India,4177,Bangalore,Afternoon,0,Morning,Goa,Business,4.28,53,8123,1/27/2023
+IndiGo,8730,Mumbai,Evening,2,Night,Pune,Business,3.71,7,9647,1/28/2023
+Vistara,3180,Bangalore,Morning,1,Evening,Hyderabad,Economy,3.54,38,3174,1/29/2023
+Air India,5892,Mumbai,Evening,1,Morning,Pune,Business,2.61,21,3164,1/30/2023
+Vistara,8043,Mumbai,Morning,0,Morning,Goa,Business,3.31,8,11284,1/1/2023
+Vistara,1137,Mumbai,Afternoon,1,Evening,Pune,Business,2.23,51,11475,1/2/2023
+Air India,7327,Mumbai,Evening,2,Evening,Goa,Business,2.91,54,12203,1/3/2023
+Air India,4472,Delhi,Night,0,Night,Kolkata,Business,4.17,21,11037,1/4/2023
+Air India,6449,Mumbai,Morning,2,Night,Pune,Business,4.92,56,12183,1/5/2023
+Air India,3832,Chennai,Evening,0,Evening,Pune,Business,4.73,20,10712,1/6/2023
+Air India,4579,Bangalore,Night,0,Night,Kolkata,Business,4.74,8,6466,1/7/2023
+Vistara,6971,Chennai,Evening,0,Evening,Pune,Business,2.61,58,7538,1/8/2023
+Air India,5164,Delhi,Evening,0,Morning,Kolkata,Business,2.88,46,14388,1/9/2023
+IndiGo,8941,Chennai,Evening,1,Morning,Hyderabad,Business,3.82,31,14948,1/10/2023
+SpiceJet,6569,Bangalore,Morning,2,Afternoon,Goa,Economy,4.69,50,9111,1/11/2023
+Air India,5300,Chennai,Night,2,Morning,Kolkata,Business,1.57,57,10434,1/12/2023
+Air India,7269,Delhi,Afternoon,2,Evening,Pune,Business,2.22,29,4800,1/13/2023
+Vistara,4818,Mumbai,Morning,0,Night,Kolkata,Business,1.56,48,6607,1/14/2023
+Air India,2906,Chennai,Morning,1,Afternoon,Pune,Economy,3.45,9,13088,1/15/2023
+Air India,7254,Delhi,Morning,2,Night,Hyderabad,Business,2.23,15,12794,1/16/2023
+Air India,1760,Delhi,Afternoon,1,Evening,Kolkata,Economy,2.3,30,9262,1/17/2023
+Vistara,8830,Bangalore,Night,0,Morning,Hyderabad,Business,1.28,26,12465,1/18/2023
+Air India,8350,Bangalore,Night,2,Afternoon,Goa,Business,2.4,10,3541,1/19/2023
+SpiceJet,7238,Chennai,Night,1,Evening,Pune,Economy,4.45,29,4765,1/20/2023
+Vistara,7090,Mumbai,Evening,0,Afternoon,Pune,Business,1.93,54,12306,1/21/2023
+SpiceJet,7031,Delhi,Evening,1,Afternoon,Hyderabad,Economy,3.78,16,6491,1/22/2023
+Vistara,8687,Chennai,Evening,2,Morning,Goa,Economy,3.52,36,14899,1/23/2023
+Air India,9472,Delhi,Afternoon,2,Evening,Kolkata,Business,4.45,20,5083,1/24/2023
+SpiceJet,2887,Delhi,Evening,0,Night,Kolkata,Business,1.53,45,7356,1/25/2023
+Vistara,4266,Mumbai,Afternoon,0,Afternoon,Pune,Business,4.91,54,3857,1/26/2023
+IndiGo,1666,Mumbai,Night,0,Afternoon,Hyderabad,Business,3.33,37,2769,1/27/2023
+Air India,5188,Chennai,Evening,1,Night,Hyderabad,Economy,4.98,22,3422,1/28/2023
+Vistara,1671,Mumbai,Evening,1,Evening,Kolkata,Economy,4.65,7,10598,1/29/2023
+IndiGo,7777,Mumbai,Morning,1,Afternoon,Goa,Business,1.89,23,4972,1/30/2023
+Vistara,8570,Chennai,Afternoon,0,Afternoon,Goa,Economy,1.22,41,3872,1/1/2023
+IndiGo,8956,Mumbai,Night,2,Afternoon,Kolkata,Economy,2.02,40,7599,1/2/2023
+Air India,6124,Bangalore,Morning,2,Evening,Kolkata,Business,3.11,29,12886,1/3/2023
+SpiceJet,6585,Delhi,Morning,1,Evening,Hyderabad,Economy,1.69,16,4269,1/4/2023
+IndiGo,5777,Delhi,Night,1,Night,Goa,Economy,1.67,38,7275,1/5/2023
+Vistara,4900,Delhi,Morning,2,Evening,Kolkata,Business,2.85,28,6749,1/6/2023
+Air India,7677,Delhi,Afternoon,2,Evening,Kolkata,Economy,1.13,48,8571,1/7/2023
+IndiGo,7981,Chennai,Afternoon,1,Morning,Pune,Business,1.49,38,11373,1/8/2023
+Vistara,7376,Delhi,Evening,1,Night,Kolkata,Economy,2.66,31,7072,1/9/2023
+Vistara,1523,Delhi,Morning,2,Afternoon,Kolkata,Business,1.25,14,11631,1/10/2023
+Vistara,3393,Delhi,Evening,0,Evening,Goa,Economy,2.59,53,13245,1/11/2023
+IndiGo,3593,Delhi,Morning,1,Afternoon,Hyderabad,Economy,2.9,33,7463,1/12/2023
+IndiGo,8240,Bangalore,Afternoon,2,Afternoon,Goa,Business,2.81,57,13525,1/13/2023
+IndiGo,7937,Delhi,Afternoon,2,Morning,Hyderabad,Business,4.48,9,9450,1/14/2023
+SpiceJet,7190,Bangalore,Afternoon,2,Evening,Pune,Business,3.12,57,13089,1/15/2023
+IndiGo,6240,Chennai,Morning,2,Night,Kolkata,Business,2.87,27,13095,1/16/2023
+IndiGo,7493,Mumbai,Afternoon,0,Evening,Pune,Economy,2.64,24,10420,1/17/2023
+IndiGo,3878,Delhi,Morning,2,Afternoon,Hyderabad,Economy,4.27,13,5959,1/18/2023
+SpiceJet,5143,Mumbai,Evening,1,Night,Goa,Economy,4.58,26,12085,1/19/2023
+IndiGo,4644,Mumbai,Morning,0,Evening,Goa,Business,4.41,29,3313,1/20/2023
+Vistara,5432,Chennai,Evening,2,Afternoon,Pune,Economy,3.69,51,9847,1/21/2023
+IndiGo,2276,Mumbai,Morning,0,Afternoon,Hyderabad,Economy,1.55,49,3070,1/22/2023
+Vistara,6811,Bangalore,Evening,1,Morning,Pune,Business,2.11,43,11166,1/23/2023
+Vistara,1302,Mumbai,Afternoon,2,Morning,Pune,Business,1.18,28,11930,1/24/2023
+Vistara,1638,Mumbai,Evening,1,Morning,Kolkata,Economy,4.72,28,5285,1/25/2023
+SpiceJet,1055,Mumbai,Afternoon,2,Afternoon,Pune,Business,3.64,8,10949,1/26/2023
+SpiceJet,9717,Delhi,Afternoon,2,Evening,Kolkata,Economy,3.99,23,5095,1/27/2023
+SpiceJet,9150,Delhi,Evening,2,Morning,Kolkata,Economy,2.25,29,2320,1/28/2023
+IndiGo,3125,Bangalore,Morning,2,Evening,Goa,Business,4.38,5,4321,1/29/2023
+Vistara,1364,Bangalore,Morning,2,Morning,Kolkata,Economy,2.04,42,2555,1/30/2023
+SpiceJet,7809,Delhi,Night,0,Night,Kolkata,Business,1.01,7,6939,1/1/2023
+SpiceJet,5621,Bangalore,Morning,2,Night,Goa,Business,2.51,42,7432,1/2/2023
+IndiGo,6126,Delhi,Night,2,Morning,Pune,Economy,3.28,36,3386,1/3/2023
+SpiceJet,6122,Chennai,Morning,0,Afternoon,Hyderabad,Economy,2.91,41,6763,1/4/2023
+IndiGo,2646,Mumbai,Morning,0,Morning,Hyderabad,Economy,4.45,27,13239,1/5/2023
+Air India,1918,Mumbai,Afternoon,0,Morning,Hyderabad,Business,1.42,58,12619,1/6/2023
+SpiceJet,3797,Bangalore,Night,0,Afternoon,Pune,Economy,3.22,46,8854,1/7/2023
+Air India,7506,Delhi,Morning,0,Night,Kolkata,Business,3.05,2,12196,1/8/2023
+IndiGo,6870,Delhi,Night,0,Evening,Hyderabad,Business,2.13,25,12122,1/9/2023
+Vistara,2531,Bangalore,Afternoon,2,Morning,Pune,Economy,4.29,9,9637,1/10/2023
+SpiceJet,9172,Delhi,Afternoon,2,Afternoon,Kolkata,Business,4.01,53,6841,1/11/2023
+IndiGo,4345,Chennai,Night,1,Morning,Goa,Economy,3.93,27,14962,1/12/2023
+Vistara,8673,Mumbai,Afternoon,2,Afternoon,Hyderabad,Economy,4.5,1,12355,1/13/2023
+Vistara,7949,Bangalore,Evening,2,Evening,Kolkata,Economy,3.89,23,5867,1/14/2023
+Air India,7882,Bangalore,Evening,0,Evening,Hyderabad,Economy,1.93,10,12618,1/15/2023
+IndiGo,2906,Delhi,Afternoon,0,Night,Hyderabad,Economy,3.82,42,5793,1/16/2023
+Vistara,4086,Bangalore,Evening,2,Afternoon,Hyderabad,Economy,2.23,52,9373,1/17/2023
+SpiceJet,9152,Chennai,Morning,1,Afternoon,Kolkata,Economy,1.97,25,4513,1/18/2023
+SpiceJet,6750,Delhi,Night,0,Night,Pune,Business,1.29,54,5803,1/19/2023
+Air India,9905,Delhi,Morning,2,Night,Kolkata,Economy,3.98,3,4327,1/20/2023
+Vistara,2062,Delhi,Night,2,Afternoon,Hyderabad,Business,3.84,6,10809,1/21/2023
+IndiGo,2976,Delhi,Afternoon,1,Night,Kolkata,Business,1.94,58,4165,1/22/2023
+SpiceJet,2296,Chennai,Morning,1,Evening,Goa,Business,4.0,6,5308,1/23/2023
+Vistara,7229,Delhi,Afternoon,0,Morning,Pune,Economy,4.67,53,8452,1/24/2023
+Vistara,8641,Bangalore,Afternoon,1,Evening,Kolkata,Business,1.43,2,10067,1/25/2023
+Air India,1125,Chennai,Night,2,Night,Goa,Business,1.93,58,9642,1/26/2023
+SpiceJet,5632,Mumbai,Night,2,Afternoon,Pune,Economy,4.0,58,8404,1/27/2023
+SpiceJet,7288,Mumbai,Night,1,Afternoon,Goa,Economy,2.1,18,2992,1/28/2023
+IndiGo,4596,Bangalore,Morning,1,Evening,Pune,Business,3.5,23,7424,1/29/2023
+SpiceJet,7168,Bangalore,Evening,1,Afternoon,Kolkata,Economy,1.32,2,11569,1/30/2023
+IndiGo,8561,Chennai,Night,1,Night,Goa,Economy,2.81,12,6381,1/1/2023
+SpiceJet,9258,Mumbai,Night,0,Evening,Hyderabad,Economy,3.96,22,5174,1/2/2023
+Air India,1232,Mumbai,Morning,1,Afternoon,Goa,Economy,3.75,37,6782,1/3/2023
+SpiceJet,7371,Mumbai,Night,0,Morning,Pune,Business,4.26,20,11497,1/4/2023
+IndiGo,5206,Mumbai,Morning,2,Morning,Kolkata,Economy,4.51,39,7560,1/5/2023
+IndiGo,8943,Mumbai,Afternoon,1,Night,Pune,Economy,4.09,24,9460,1/6/2023
+Air India,7891,Delhi,Night,0,Afternoon,Goa,Economy,3.69,48,5078,1/7/2023
+SpiceJet,7738,Bangalore,Night,1,Night,Goa,Business,1.13,20,12878,1/8/2023
+SpiceJet,3472,Delhi,Afternoon,2,Evening,Hyderabad,Business,3.14,1,4983,1/9/2023
+Air India,3739,Mumbai,Afternoon,2,Morning,Kolkata,Economy,1.15,1,9259,1/10/2023
+SpiceJet,6401,Chennai,Afternoon,2,Evening,Kolkata,Economy,4.23,17,8054,1/11/2023
+SpiceJet,2761,Chennai,Night,1,Afternoon,Goa,Business,2.28,59,4523,1/12/2023
+IndiGo,1876,Mumbai,Evening,1,Night,Kolkata,Economy,3.25,1,13774,1/13/2023
+SpiceJet,4812,Mumbai,Evening,0,Night,Hyderabad,Economy,2.12,53,11677,1/14/2023
+SpiceJet,2460,Chennai,Evening,2,Night,Pune,Business,4.13,52,12292,1/15/2023
+Air India,2733,Delhi,Night,1,Evening,Kolkata,Economy,4.55,45,6581,1/16/2023
+Air India,2605,Delhi,Afternoon,2,Morning,Goa,Economy,2.59,30,13907,1/17/2023
+Vistara,6622,Mumbai,Night,2,Evening,Pune,Business,4.45,41,7609,1/18/2023
+IndiGo,7767,Delhi,Afternoon,0,Evening,Pune,Business,2.07,47,4001,1/19/2023
+SpiceJet,7986,Chennai,Night,0,Afternoon,Hyderabad,Economy,3.14,3,3387,1/20/2023
+SpiceJet,4517,Delhi,Night,0,Afternoon,Goa,Business,4.44,46,13375,1/21/2023
+Vistara,4735,Mumbai,Afternoon,0,Afternoon,Kolkata,Economy,2.3,55,8552,1/22/2023
+SpiceJet,9434,Chennai,Evening,2,Morning,Goa,Economy,4.82,11,3030,1/23/2023
+IndiGo,3590,Delhi,Afternoon,0,Morning,Pune,Economy,1.49,24,11957,1/24/2023
+Vistara,2063,Bangalore,Morning,0,Afternoon,Goa,Business,1.07,22,14955,1/25/2023
+IndiGo,5324,Chennai,Morning,0,Afternoon,Kolkata,Business,4.62,44,3220,1/26/2023
+Vistara,6342,Chennai,Afternoon,0,Morning,Kolkata,Economy,1.27,45,13998,1/27/2023
+Vistara,1005,Bangalore,Night,2,Night,Hyderabad,Economy,4.97,26,12606,1/28/2023
+Air India,8489,Bangalore,Morning,0,Morning,Kolkata,Business,4.81,13,14537,1/29/2023
+IndiGo,9659,Chennai,Morning,2,Morning,Kolkata,Business,1.55,1,8035,1/30/2023
+SpiceJet,9195,Bangalore,Night,1,Morning,Goa,Business,3.15,24,11810,1/1/2023
+SpiceJet,6966,Mumbai,Night,2,Afternoon,Goa,Economy,1.74,10,11455,1/2/2023
+IndiGo,9837,Mumbai,Evening,2,Night,Pune,Business,2.71,35,8523,1/3/2023
+SpiceJet,1117,Mumbai,Night,0,Morning,Hyderabad,Business,1.25,24,10074,1/4/2023
+SpiceJet,3551,Chennai,Afternoon,1,Afternoon,Goa,Economy,1.9,28,11063,1/5/2023
+IndiGo,6560,Bangalore,Afternoon,1,Evening,Kolkata,Economy,2.45,36,2834,1/6/2023
+Vistara,5289,Bangalore,Evening,1,Evening,Pune,Economy,2.75,16,13014,1/7/2023
+IndiGo,1846,Delhi,Morning,1,Morning,Goa,Business,4.91,40,11110,1/8/2023
+Vistara,7316,Delhi,Morning,2,Evening,Hyderabad,Economy,4.23,16,3724,1/9/2023
+SpiceJet,7469,Bangalore,Night,1,Night,Hyderabad,Economy,3.95,59,8598,1/10/2023
+SpiceJet,9915,Bangalore,Afternoon,2,Evening,Pune,Economy,3.15,17,4413,1/11/2023
+SpiceJet,1224,Bangalore,Morning,2,Evening,Pune,Economy,4.36,51,11505,1/12/2023
+Air India,5208,Chennai,Evening,2,Night,Pune,Business,2.36,54,7993,1/13/2023
+Vistara,7283,Bangalore,Evening,1,Morning,Pune,Economy,3.84,15,6498,1/14/2023
+Air India,3048,Delhi,Afternoon,0,Morning,Pune,Business,4.98,16,4105,1/15/2023
+Air India,7233,Chennai,Evening,0,Night,Kolkata,Business,2.26,15,4568,1/16/2023
+IndiGo,2828,Bangalore,Evening,1,Night,Kolkata,Business,3.7,57,11330,1/17/2023
+Air India,2917,Delhi,Afternoon,0,Night,Goa,Economy,4.38,34,2209,1/18/2023
+IndiGo,5234,Chennai,Night,0,Evening,Hyderabad,Business,4.66,11,11256,1/19/2023
+IndiGo,7988,Bangalore,Night,2,Night,Kolkata,Economy,3.87,1,6911,1/20/2023
+Air India,3026,Bangalore,Evening,2,Afternoon,Kolkata,Economy,2.13,15,4220,1/21/2023
+Vistara,4744,Bangalore,Night,1,Evening,Kolkata,Economy,2.31,26,2233,1/22/2023
+Vistara,1009,Chennai,Night,1,Morning,Goa,Business,1.08,51,2792,1/23/2023
+Vistara,1260,Delhi,Evening,0,Morning,Pune,Economy,4.04,4,5110,1/24/2023
+Vistara,7038,Delhi,Night,2,Morning,Goa,Economy,1.17,43,4166,1/25/2023
+Vistara,3219,Mumbai,Evening,1,Evening,Hyderabad,Economy,4.46,5,10526,1/26/2023
+Air India,8041,Bangalore,Morning,1,Afternoon,Hyderabad,Business,1.47,35,11551,1/27/2023
+Air India,3060,Mumbai,Afternoon,1,Night,Hyderabad,Business,1.69,13,7193,1/28/2023
+SpiceJet,6287,Mumbai,Afternoon,1,Night,Hyderabad,Business,2.91,10,3214,1/29/2023
+Vistara,2619,Delhi,Night,1,Morning,Kolkata,Economy,3.95,11,6419,1/30/2023
+Air India,9512,Chennai,Night,1,Morning,Kolkata,Business,1.56,18,9314,1/1/2023
+SpiceJet,2342,Chennai,Night,0,Evening,Goa,Economy,2.76,34,10475,1/2/2023
+Vistara,3832,Delhi,Afternoon,2,Afternoon,Pune,Economy,2.93,39,2212,1/3/2023
+IndiGo,3824,Chennai,Morning,2,Night,Hyderabad,Business,1.85,41,3658,1/4/2023
+SpiceJet,2994,Mumbai,Morning,1,Evening,Goa,Economy,1.46,42,14270,1/5/2023
+Air India,4490,Bangalore,Afternoon,2,Night,Kolkata,Business,4.35,50,7024,1/6/2023
+IndiGo,8984,Delhi,Morning,2,Morning,Kolkata,Economy,3.01,23,11609,1/7/2023
+IndiGo,2604,Bangalore,Afternoon,2,Night,Pune,Business,1.06,7,12578,1/8/2023
+IndiGo,1235,Chennai,Morning,1,Afternoon,Pune,Economy,4.21,59,7917,1/9/2023
+SpiceJet,2908,Bangalore,Evening,1,Afternoon,Pune,Economy,4.92,39,7141,1/10/2023
+Air India,9567,Chennai,Evening,2,Morning,Goa,Economy,3.42,3,3794,1/11/2023
+IndiGo,4530,Chennai,Afternoon,2,Afternoon,Kolkata,Economy,3.01,12,7988,1/12/2023
+Vistara,6256,Mumbai,Morning,1,Afternoon,Kolkata,Economy,4.51,7,10296,1/13/2023
+IndiGo,3635,Chennai,Night,0,Evening,Pune,Business,4.81,49,7578,1/14/2023
+IndiGo,9162,Mumbai,Morning,2,Night,Hyderabad,Economy,4.02,26,7551,1/15/2023
+SpiceJet,3560,Mumbai,Evening,0,Morning,Pune,Business,2.78,33,14085,1/16/2023
+SpiceJet,6415,Mumbai,Evening,2,Morning,Goa,Business,3.37,37,5845,1/17/2023
+Air India,4391,Delhi,Morning,0,Morning,Pune,Business,3.8,48,13882,1/18/2023
+Vistara,6951,Delhi,Morning,0,Morning,Pune,Economy,1.78,15,8906,1/19/2023
+SpiceJet,6468,Chennai,Night,0,Morning,Goa,Economy,2.79,2,13484,1/20/2023
+IndiGo,9007,Mumbai,Night,1,Afternoon,Pune,Economy,4.32,41,2378,1/21/2023
+Air India,7413,Delhi,Morning,0,Evening,Kolkata,Business,3.62,7,5293,1/22/2023
+IndiGo,7941,Mumbai,Morning,0,Morning,Hyderabad,Economy,2.64,32,5329,1/23/2023
+IndiGo,5820,Bangalore,Morning,0,Evening,Pune,Economy,3.65,4,6808,1/24/2023
+SpiceJet,3898,Bangalore,Morning,2,Evening,Goa,Business,1.47,20,13630,1/25/2023
+Air India,8546,Bangalore,Afternoon,0,Afternoon,Hyderabad,Business,2.61,50,9937,1/26/2023
+Vistara,1077,Chennai,Morning,2,Morning,Goa,Business,4.17,53,2224,1/27/2023
+Vistara,8577,Mumbai,Night,0,Afternoon,Hyderabad,Business,1.88,36,2737,1/28/2023
+SpiceJet,5227,Bangalore,Evening,0,Morning,Hyderabad,Business,1.74,32,2235,1/29/2023
+SpiceJet,1600,Delhi,Afternoon,1,Afternoon,Pune,Business,4.8,28,14470,1/30/2023
+Air India,2065,Bangalore,Morning,2,Evening,Kolkata,Economy,1.84,13,2711,1/1/2023
+Vistara,3136,Bangalore,Evening,0,Morning,Pune,Business,2.04,1,7988,1/2/2023
+Vistara,7943,Bangalore,Afternoon,2,Night,Goa,Economy,4.88,56,3888,1/3/2023
+Vistara,8804,Chennai,Evening,2,Evening,Goa,Economy,3.94,35,14910,1/4/2023
+IndiGo,7565,Delhi,Morning,1,Night,Hyderabad,Economy,3.8,48,9173,1/5/2023
+Vistara,6984,Mumbai,Morning,1,Evening,Hyderabad,Business,4.41,30,3259,1/6/2023
+IndiGo,6142,Delhi,Night,1,Afternoon,Kolkata,Economy,1.46,54,7246,1/7/2023
+Air India,5670,Mumbai,Morning,1,Morning,Pune,Business,3.82,36,9271,1/8/2023
+IndiGo,3190,Chennai,Morning,1,Evening,Goa,Business,3.01,57,2748,1/9/2023
+Air India,3712,Chennai,Afternoon,1,Afternoon,Hyderabad,Economy,4.32,55,14178,1/10/2023
+Vistara,3192,Chennai,Night,1,Morning,Kolkata,Business,3.03,25,5551,1/11/2023
+Vistara,2248,Chennai,Afternoon,1,Morning,Goa,Economy,3.48,16,8400,1/12/2023
+Air India,5033,Mumbai,Evening,0,Evening,Hyderabad,Economy,2.91,58,8643,1/13/2023
+SpiceJet,2997,Bangalore,Morning,2,Morning,Goa,Business,2.91,19,10701,1/14/2023
+Air India,4687,Mumbai,Evening,1,Evening,Kolkata,Economy,4.07,1,3823,1/15/2023
+SpiceJet,5018,Delhi,Afternoon,1,Morning,Kolkata,Economy,3.51,5,8852,1/16/2023
+IndiGo,2970,Chennai,Morning,2,Night,Goa,Economy,3.53,51,13133,1/17/2023
+IndiGo,9389,Chennai,Morning,0,Afternoon,Pune,Business,2.8,22,9777,1/18/2023
+IndiGo,6765,Delhi,Afternoon,2,Night,Goa,Economy,3.12,24,6232,1/19/2023
+Vistara,2202,Mumbai,Afternoon,2,Evening,Hyderabad,Business,3.98,43,8519,1/20/2023
+IndiGo,9135,Bangalore,Afternoon,1,Night,Pune,Business,4.3,45,12326,1/21/2023
+SpiceJet,6567,Bangalore,Afternoon,2,Evening,Hyderabad,Economy,3.79,52,3777,1/22/2023
+IndiGo,8667,Delhi,Afternoon,2,Morning,Goa,Economy,4.7,37,3222,1/23/2023
+Air India,6742,Bangalore,Morning,1,Morning,Pune,Business,4.28,53,9630,1/24/2023
+Air India,6788,Mumbai,Afternoon,1,Evening,Hyderabad,Business,3.25,36,13859,1/25/2023
+Vistara,6408,Mumbai,Morning,1,Night,Goa,Economy,3.69,36,3777,1/26/2023
+Air India,9669,Delhi,Morning,1,Morning,Goa,Economy,4.71,4,11496,1/27/2023
+SpiceJet,1922,Mumbai,Afternoon,2,Afternoon,Pune,Business,3.48,36,9490,1/28/2023
+IndiGo,1419,Chennai,Afternoon,2,Morning,Goa,Business,4.3,52,6859,1/29/2023
+Vistara,3204,Delhi,Night,0,Afternoon,Kolkata,Business,3.76,53,10893,1/30/2023
+IndiGo,2120,Mumbai,Morning,0,Night,Hyderabad,Business,3.21,18,10118,1/1/2023
+IndiGo,1950,Delhi,Afternoon,2,Afternoon,Hyderabad,Business,1.97,50,4989,1/2/2023
+SpiceJet,3336,Bangalore,Afternoon,0,Afternoon,Goa,Economy,2.7,16,10343,1/3/2023
+Air India,6373,Mumbai,Afternoon,2,Afternoon,Goa,Business,4.87,41,3325,1/4/2023
+Air India,3243,Chennai,Night,0,Afternoon,Kolkata,Business,3.63,18,11493,1/5/2023
+IndiGo,3645,Mumbai,Night,1,Morning,Pune,Economy,3.26,22,13914,1/6/2023
+Vistara,5612,Delhi,Evening,0,Afternoon,Goa,Economy,4.73,2,11903,1/7/2023
+Air India,2865,Delhi,Morning,1,Morning,Goa,Business,3.35,21,7127,1/8/2023
+Vistara,7028,Mumbai,Evening,1,Afternoon,Goa,Business,3.1,36,10998,1/9/2023
+Air India,8326,Chennai,Afternoon,1,Evening,Goa,Economy,4.04,44,14522,1/10/2023
+Vistara,7371,Chennai,Night,1,Night,Hyderabad,Business,3.85,39,4722,1/11/2023
+SpiceJet,7359,Chennai,Night,0,Afternoon,Goa,Business,1.77,47,6656,1/12/2023
+Vistara,8863,Delhi,Evening,2,Evening,Hyderabad,Economy,2.89,39,3325,1/13/2023
+SpiceJet,4228,Mumbai,Night,1,Afternoon,Goa,Business,2.89,29,6133,1/14/2023
+SpiceJet,4719,Bangalore,Afternoon,0,Afternoon,Pune,Economy,2.51,54,11351,1/15/2023
+Vistara,3371,Delhi,Night,1,Afternoon,Kolkata,Economy,3.07,26,4869,1/16/2023
+SpiceJet,3891,Chennai,Evening,0,Evening,Pune,Economy,2.65,21,14708,1/17/2023
+IndiGo,4756,Mumbai,Afternoon,0,Night,Goa,Economy,1.8,17,3242,1/18/2023
+SpiceJet,5225,Chennai,Evening,0,Evening,Goa,Business,2.65,16,10539,1/19/2023
+Air India,1094,Bangalore,Night,2,Night,Goa,Economy,1.29,31,3831,1/20/2023
+Vistara,3674,Chennai,Evening,0,Afternoon,Pune,Business,3.3,51,3569,1/21/2023
+IndiGo,7898,Chennai,Evening,0,Morning,Goa,Business,4.41,9,14127,1/22/2023
+Vistara,1793,Bangalore,Morning,2,Afternoon,Pune,Business,3.9,31,9246,1/23/2023
+Air India,3116,Mumbai,Night,2,Night,Hyderabad,Business,2.44,14,3918,1/24/2023
+Air India,6779,Delhi,Night,0,Evening,Kolkata,Business,1.35,49,8416,1/25/2023
+Air India,7166,Mumbai,Evening,2,Afternoon,Kolkata,Economy,1.81,37,5232,1/26/2023
+SpiceJet,1814,Bangalore,Morning,1,Evening,Pune,Economy,3.18,2,5758,1/27/2023
+SpiceJet,1345,Chennai,Night,1,Evening,Hyderabad,Economy,1.83,52,7997,1/28/2023
+Vistara,9554,Mumbai,Afternoon,2,Evening,Pune,Economy,3.18,48,4355,1/29/2023
+Vistara,3443,Delhi,Evening,2,Afternoon,Hyderabad,Business,1.93,46,11589,1/30/2023
+IndiGo,8783,Bangalore,Night,0,Evening,Goa,Economy,4.4,14,12972,1/1/2023
+IndiGo,1984,Mumbai,Afternoon,2,Evening,Hyderabad,Business,2.59,59,3824,1/2/2023
+Vistara,8790,Delhi,Night,0,Afternoon,Hyderabad,Business,1.98,33,12683,1/3/2023
+SpiceJet,1827,Bangalore,Afternoon,1,Evening,Hyderabad,Economy,4.25,35,9280,1/4/2023
+Air India,4531,Delhi,Evening,2,Afternoon,Kolkata,Economy,2.37,58,6060,1/5/2023
+Vistara,8147,Bangalore,Night,0,Night,Hyderabad,Economy,1.45,39,7324,1/6/2023
+IndiGo,5451,Chennai,Night,0,Night,Goa,Economy,3.28,58,2404,1/7/2023
+SpiceJet,4876,Mumbai,Morning,1,Night,Goa,Business,3.33,47,3721,1/8/2023
+Vistara,6959,Delhi,Evening,2,Evening,Goa,Business,3.86,51,7316,1/9/2023
+Vistara,1126,Bangalore,Afternoon,1,Morning,Hyderabad,Economy,1.96,20,13017,1/10/2023
+SpiceJet,4177,Delhi,Night,0,Morning,Pune,Business,2.78,2,5845,1/11/2023
+Vistara,9795,Delhi,Night,0,Evening,Pune,Business,2.13,51,6210,1/12/2023
+SpiceJet,7024,Mumbai,Afternoon,2,Morning,Goa,Business,1.32,41,13384,1/13/2023
+Air India,6109,Chennai,Evening,0,Afternoon,Kolkata,Economy,4.51,19,2064,1/14/2023
+SpiceJet,5146,Delhi,Morning,2,Morning,Pune,Business,3.92,59,11491,1/15/2023
+SpiceJet,8196,Bangalore,Morning,1,Evening,Hyderabad,Economy,2.21,37,8382,1/16/2023
+SpiceJet,4368,Bangalore,Night,2,Evening,Pune,Economy,3.4,18,11607,1/17/2023
+Vistara,4797,Chennai,Afternoon,2,Afternoon,Goa,Business,1.81,16,13785,1/18/2023
+Vistara,2792,Bangalore,Night,0,Night,Kolkata,Business,4.56,4,2968,1/19/2023
+SpiceJet,6732,Chennai,Afternoon,0,Evening,Pune,Economy,1.46,12,2368,1/20/2023
+Vistara,4476,Bangalore,Morning,2,Afternoon,Pune,Business,1.02,29,10424,1/21/2023
+IndiGo,4417,Mumbai,Evening,0,Morning,Goa,Business,3.01,7,4242,1/22/2023
+IndiGo,2645,Delhi,Afternoon,0,Morning,Kolkata,Economy,3.33,14,7002,1/23/2023
+Vistara,4030,Mumbai,Morning,0,Afternoon,Kolkata,Economy,3.32,55,5083,1/24/2023
+Vistara,3872,Delhi,Night,2,Afternoon,Goa,Economy,1.22,12,10073,1/25/2023
+SpiceJet,4072,Delhi,Afternoon,0,Evening,Hyderabad,Economy,2.26,35,11112,1/26/2023
+Air India,2854,Delhi,Evening,2,Morning,Pune,Business,3.0,5,10880,1/27/2023
+Vistara,5021,Mumbai,Night,0,Afternoon,Hyderabad,Business,1.87,17,14464,1/28/2023
+IndiGo,5662,Delhi,Night,1,Morning,Pune,Economy,4.49,58,3469,1/29/2023
+SpiceJet,7514,Mumbai,Morning,0,Afternoon,Pune,Economy,1.35,42,6725,1/30/2023
+Vistara,6031,Chennai,Afternoon,0,Morning,Hyderabad,Economy,2.95,32,6259,1/1/2023
+IndiGo,3708,Bangalore,Night,2,Night,Goa,Business,3.77,10,5622,1/2/2023
+IndiGo,8112,Bangalore,Evening,2,Evening,Goa,Economy,2.05,43,12292,1/3/2023
+Air India,9393,Delhi,Afternoon,0,Morning,Pune,Business,3.5,17,12457,1/4/2023
+SpiceJet,4507,Mumbai,Evening,1,Night,Goa,Economy,4.32,5,13981,1/5/2023
+SpiceJet,7456,Bangalore,Night,0,Morning,Pune,Economy,1.76,45,2823,1/6/2023
+Air India,5212,Mumbai,Evening,0,Morning,Goa,Economy,4.67,42,5431,1/7/2023
+Air India,8970,Mumbai,Morning,1,Night,Pune,Business,3.21,9,8528,1/8/2023
+SpiceJet,9766,Delhi,Evening,2,Morning,Goa,Business,2.2,49,6151,1/9/2023
+SpiceJet,1536,Bangalore,Afternoon,0,Morning,Kolkata,Business,2.72,33,6213,1/10/2023
+Vistara,2625,Delhi,Evening,2,Evening,Hyderabad,Economy,2.25,36,9420,1/11/2023
+Vistara,8973,Delhi,Evening,2,Night,Kolkata,Business,3.9,36,10989,1/12/2023
+Air India,9577,Bangalore,Morning,1,Night,Hyderabad,Business,4.19,18,2779,1/13/2023
+Vistara,9070,Bangalore,Evening,1,Afternoon,Hyderabad,Economy,4.33,9,13042,1/14/2023
+IndiGo,9666,Chennai,Evening,2,Morning,Pune,Economy,4.94,57,4892,1/15/2023
+Vistara,9609,Chennai,Night,0,Evening,Hyderabad,Business,4.17,29,7534,1/16/2023
+Vistara,7490,Mumbai,Night,2,Morning,Kolkata,Business,3.41,50,12085,1/17/2023
+IndiGo,4600,Bangalore,Afternoon,0,Morning,Kolkata,Business,2.36,14,5306,1/18/2023
+Air India,7783,Chennai,Night,0,Afternoon,Goa,Business,3.18,25,4902,1/19/2023
+IndiGo,5971,Mumbai,Night,1,Morning,Kolkata,Economy,1.16,15,14995,1/20/2023
+Vistara,2205,Mumbai,Night,0,Evening,Goa,Economy,3.98,6,5718,1/21/2023
+Air India,2990,Mumbai,Night,0,Evening,Hyderabad,Economy,2.78,56,2021,1/22/2023
+Vistara,6299,Chennai,Morning,2,Afternoon,Kolkata,Business,1.08,42,3500,1/23/2023
+IndiGo,4572,Bangalore,Night,1,Morning,Hyderabad,Business,1.25,29,11034,1/24/2023
+IndiGo,6975,Delhi,Morning,0,Evening,Kolkata,Economy,2.55,15,11952,1/25/2023
+Vistara,7320,Mumbai,Morning,0,Morning,Kolkata,Economy,3.33,29,5641,1/26/2023
+SpiceJet,5380,Chennai,Night,1,Morning,Goa,Business,2.86,4,7212,1/27/2023
+SpiceJet,5757,Chennai,Evening,2,Morning,Hyderabad,Business,3.48,18,2191,1/28/2023
+IndiGo,3713,Delhi,Morning,1,Afternoon,Kolkata,Economy,2.92,50,10587,1/29/2023
+IndiGo,6588,Delhi,Evening,1,Morning,Pune,Economy,3.65,57,9174,1/30/2023
+SpiceJet,1966,Chennai,Evening,0,Evening,Hyderabad,Economy,1.88,49,7114,1/1/2023
+SpiceJet,5944,Bangalore,Night,0,Morning,Hyderabad,Business,1.45,44,6662,1/2/2023
+Vistara,4432,Delhi,Afternoon,2,Evening,Hyderabad,Business,3.39,39,6326,1/3/2023
+Vistara,1688,Chennai,Night,0,Morning,Goa,Business,2.94,16,11065,1/4/2023
+SpiceJet,5243,Delhi,Afternoon,0,Evening,Pune,Business,1.11,11,12813,1/5/2023
+Vistara,4701,Bangalore,Afternoon,1,Evening,Hyderabad,Business,2.52,14,6335,1/6/2023
+Vistara,9533,Mumbai,Night,0,Morning,Kolkata,Business,1.42,3,10281,1/7/2023
+Air India,6182,Delhi,Night,2,Morning,Kolkata,Economy,3.13,51,12471,1/8/2023
+Vistara,7704,Bangalore,Afternoon,1,Evening,Goa,Economy,2.58,50,10648,1/9/2023
+IndiGo,5422,Chennai,Night,2,Night,Kolkata,Business,3.45,42,12472,1/10/2023
+Vistara,2759,Delhi,Afternoon,1,Afternoon,Hyderabad,Economy,4.22,38,14641,1/11/2023
+Vistara,3482,Delhi,Evening,0,Night,Kolkata,Business,2.2,45,11196,1/12/2023
+SpiceJet,9058,Chennai,Night,1,Night,Hyderabad,Economy,4.85,42,14726,1/13/2023
+IndiGo,1951,Mumbai,Evening,1,Morning,Kolkata,Business,3.14,18,7494,1/14/2023
+Vistara,9914,Chennai,Morning,0,Afternoon,Pune,Economy,3.47,58,10536,1/15/2023
+Vistara,3079,Delhi,Evening,0,Night,Goa,Economy,3.72,20,4711,1/16/2023
+Air India,3717,Chennai,Evening,2,Morning,Goa,Business,3.67,58,9595,1/17/2023
+Vistara,5524,Bangalore,Afternoon,2,Night,Pune,Business,3.04,48,14944,1/18/2023
+Vistara,9477,Chennai,Evening,0,Night,Pune,Economy,2.72,25,8273,1/19/2023
+Air India,8311,Delhi,Night,0,Morning,Goa,Economy,1.22,57,8284,1/20/2023
+SpiceJet,8186,Chennai,Afternoon,0,Morning,Pune,Business,1.09,38,12654,1/21/2023
+Vistara,3065,Mumbai,Morning,1,Morning,Hyderabad,Economy,2.43,13,11308,1/22/2023
+Air India,1768,Chennai,Night,1,Afternoon,Kolkata,Business,2.33,4,10817,1/23/2023
+IndiGo,6490,Mumbai,Morning,1,Night,Goa,Business,2.55,55,14571,1/24/2023
+SpiceJet,7645,Bangalore,Evening,0,Morning,Pune,Economy,1.55,14,12171,1/25/2023
+IndiGo,6083,Mumbai,Night,2,Evening,Hyderabad,Business,3.95,33,5994,1/26/2023
+IndiGo,6232,Chennai,Night,0,Night,Goa,Economy,4.43,28,3678,1/27/2023
+Air India,6797,Delhi,Morning,1,Evening,Pune,Economy,4.75,52,10414,1/28/2023
+Vistara,5926,Mumbai,Night,1,Afternoon,Goa,Business,2.97,37,2743,1/29/2023
+Air India,7016,Bangalore,Night,0,Morning,Pune,Economy,3.8,8,2462,1/30/2023
+Air India,4335,Mumbai,Night,0,Evening,Goa,Business,4.42,44,3568,1/1/2023
+Air India,9038,Mumbai,Evening,1,Afternoon,Hyderabad,Business,2.67,34,13539,1/2/2023
+Air India,5873,Mumbai,Morning,1,Morning,Hyderabad,Business,2.24,44,3736,1/3/2023
+SpiceJet,2481,Bangalore,Night,1,Evening,Kolkata,Economy,4.75,5,14231,1/4/2023
+Vistara,7305,Chennai,Afternoon,0,Evening,Goa,Business,3.06,54,9903,1/5/2023
+IndiGo,4451,Mumbai,Afternoon,1,Afternoon,Kolkata,Economy,2.99,5,14143,1/6/2023
+IndiGo,1054,Mumbai,Afternoon,1,Morning,Goa,Business,1.71,31,9002,1/7/2023
+Vistara,8643,Delhi,Afternoon,2,Morning,Pune,Business,1.43,45,10856,1/8/2023
+IndiGo,4462,Bangalore,Evening,0,Evening,Pune,Business,4.37,9,3356,1/9/2023
+Vistara,1832,Mumbai,Night,2,Evening,Kolkata,Economy,3.46,42,3014,1/10/2023
+IndiGo,6954,Bangalore,Morning,2,Evening,Goa,Economy,2.3,32,12324,1/11/2023
+Air India,9519,Mumbai,Night,1,Morning,Kolkata,Business,1.77,33,12860,1/12/2023
+IndiGo,8221,Chennai,Evening,0,Afternoon,Hyderabad,Business,3.22,3,3054,1/13/2023
+Vistara,4310,Chennai,Afternoon,1,Afternoon,Kolkata,Economy,3.34,30,3764,1/14/2023
+Vistara,4300,Mumbai,Evening,0,Morning,Kolkata,Economy,1.83,50,8009,1/15/2023
+Vistara,7722,Chennai,Night,2,Night,Pune,Economy,4.41,12,6458,1/16/2023
+Vistara,8218,Mumbai,Morning,0,Afternoon,Kolkata,Business,1.34,29,13061,1/17/2023
+Vistara,8776,Chennai,Evening,1,Evening,Goa,Economy,2.42,3,11604,1/18/2023
+SpiceJet,4675,Delhi,Morning,1,Night,Pune,Business,3.72,26,2667,1/19/2023
+SpiceJet,4054,Delhi,Evening,1,Night,Kolkata,Economy,2.1,57,5370,1/20/2023
+IndiGo,8970,Delhi,Morning,0,Afternoon,Hyderabad,Business,4.31,30,7976,1/21/2023
+Vistara,3143,Bangalore,Morning,2,Night,Kolkata,Business,3.96,9,3394,1/22/2023
+IndiGo,6207,Bangalore,Afternoon,2,Night,Kolkata,Business,4.16,26,10290,1/23/2023
+Vistara,3538,Delhi,Morning,0,Afternoon,Kolkata,Economy,1.48,2,6070,1/24/2023
+Vistara,5547,Bangalore,Afternoon,1,Afternoon,Pune,Economy,1.56,3,8982,1/25/2023
+SpiceJet,6619,Chennai,Night,2,Night,Goa,Economy,2.15,46,10613,1/26/2023
+SpiceJet,9356,Mumbai,Night,1,Evening,Hyderabad,Business,3.07,4,7599,1/27/2023
+Air India,7612,Mumbai,Afternoon,0,Morning,Kolkata,Business,3.99,25,5650,1/28/2023
+SpiceJet,6005,Mumbai,Afternoon,1,Night,Goa,Economy,4.35,51,14349,1/29/2023
+Air India,1822,Delhi,Evening,2,Night,Goa,Business,3.82,13,11324,1/30/2023
+Air India,1943,Bangalore,Evening,2,Evening,Pune,Business,4.71,39,11894,1/1/2023
+Air India,7150,Chennai,Evening,1,Night,Hyderabad,Business,3.95,44,5620,1/2/2023
+Air India,5425,Chennai,Night,0,Night,Pune,Economy,2.23,35,5190,1/3/2023
+Air India,9966,Delhi,Evening,1,Morning,Goa,Business,2.06,55,10789,1/4/2023
+IndiGo,3198,Chennai,Morning,0,Morning,Goa,Economy,3.78,23,2391,1/5/2023
+SpiceJet,5242,Chennai,Morning,1,Morning,Goa,Economy,1.77,9,3075,1/6/2023
+Air India,4695,Chennai,Evening,2,Afternoon,Pune,Economy,1.37,2,4650,1/7/2023
+Vistara,4452,Chennai,Morning,0,Afternoon,Hyderabad,Economy,3.13,54,4384,1/8/2023
+SpiceJet,2308,Bangalore,Night,0,Morning,Kolkata,Economy,4.29,41,2809,1/9/2023
+SpiceJet,5177,Chennai,Morning,0,Morning,Pune,Business,1.41,44,10047,1/10/2023
+Air India,9705,Mumbai,Night,2,Afternoon,Goa,Economy,4.17,31,13501,1/11/2023
+IndiGo,7852,Delhi,Afternoon,1,Evening,Pune,Economy,4.25,44,7501,1/12/2023
+Air India,7035,Bangalore,Afternoon,2,Night,Goa,Economy,2.93,47,13930,1/13/2023
+IndiGo,4594,Chennai,Afternoon,0,Night,Kolkata,Business,1.23,2,8895,1/14/2023
+Vistara,5841,Bangalore,Afternoon,1,Morning,Kolkata,Business,1.7,32,3159,1/15/2023
+SpiceJet,2409,Chennai,Morning,2,Evening,Hyderabad,Business,3.83,18,9574,1/16/2023
+Vistara,5566,Mumbai,Evening,0,Afternoon,Goa,Business,3.85,13,3531,1/17/2023
+IndiGo,5491,Delhi,Morning,0,Morning,Hyderabad,Economy,4.59,46,7481,1/18/2023
+IndiGo,2555,Chennai,Night,2,Evening,Hyderabad,Economy,3.33,5,9548,1/19/2023
+Vistara,1804,Chennai,Morning,2,Evening,Kolkata,Business,1.5,58,6976,1/20/2023
+IndiGo,2279,Chennai,Morning,2,Evening,Pune,Business,1.49,42,7695,1/21/2023
+Vistara,8083,Chennai,Night,0,Afternoon,Pune,Business,3.88,44,12874,1/22/2023
+SpiceJet,6986,Delhi,Afternoon,2,Afternoon,Hyderabad,Business,1.74,10,10445,1/23/2023
+Vistara,6619,Delhi,Afternoon,0,Night,Kolkata,Economy,2.31,56,5548,1/24/2023
+SpiceJet,2387,Mumbai,Afternoon,2,Night,Goa,Business,2.95,43,13377,1/25/2023
+Vistara,3679,Delhi,Evening,0,Evening,Pune,Business,1.1,25,8163,1/26/2023
+IndiGo,3106,Chennai,Night,0,Evening,Hyderabad,Business,2.0,34,8671,1/27/2023
+Vistara,9173,Mumbai,Night,1,Afternoon,Pune,Business,2.63,37,7264,1/28/2023
+IndiGo,5223,Mumbai,Morning,2,Night,Pune,Business,2.12,30,3231,1/29/2023
+Vistara,5831,Mumbai,Evening,2,Evening,Goa,Business,1.55,7,4423,1/30/2023
+Vistara,3768,Chennai,Afternoon,0,Night,Kolkata,Business,3.91,6,13767,1/1/2023
+Air India,4186,Bangalore,Evening,0,Night,Goa,Economy,4.25,54,10071,1/2/2023
+IndiGo,3573,Chennai,Night,0,Evening,Kolkata,Economy,2.03,55,6261,1/3/2023
+Air India,3599,Delhi,Night,1,Afternoon,Pune,Economy,4.1,3,11765,1/4/2023
+IndiGo,5033,Delhi,Morning,1,Evening,Hyderabad,Economy,2.54,13,4908,1/5/2023
+Air India,9428,Chennai,Morning,0,Evening,Goa,Economy,3.03,3,6712,1/6/2023
+SpiceJet,2304,Chennai,Night,2,Night,Kolkata,Economy,4.42,26,8755,1/7/2023
+Vistara,8368,Mumbai,Afternoon,2,Evening,Pune,Business,4.0,57,11817,1/8/2023
+IndiGo,6877,Chennai,Afternoon,1,Afternoon,Kolkata,Business,4.22,24,14190,1/9/2023
+IndiGo,2301,Mumbai,Evening,1,Evening,Kolkata,Economy,1.55,53,5883,1/10/2023
+Vistara,3541,Delhi,Night,0,Afternoon,Kolkata,Business,1.28,6,5515,1/11/2023
+IndiGo,3051,Mumbai,Night,2,Afternoon,Pune,Economy,4.57,43,5403,1/12/2023
+IndiGo,7809,Chennai,Afternoon,0,Night,Hyderabad,Business,2.55,58,6598,1/13/2023
+Air India,9633,Delhi,Afternoon,1,Morning,Hyderabad,Business,2.15,49,7008,1/14/2023
+IndiGo,9996,Bangalore,Night,2,Morning,Hyderabad,Business,3.9,42,8222,1/15/2023
+SpiceJet,1074,Mumbai,Morning,2,Night,Kolkata,Business,4.35,12,14872,1/16/2023
+SpiceJet,7981,Delhi,Night,1,Evening,Pune,Business,4.45,49,12150,1/17/2023
+Vistara,6475,Mumbai,Night,0,Night,Kolkata,Business,2.26,36,6009,1/18/2023
+IndiGo,9232,Delhi,Afternoon,0,Afternoon,Hyderabad,Economy,4.41,2,4735,1/19/2023
+Vistara,8184,Delhi,Afternoon,2,Morning,Hyderabad,Economy,1.16,11,6491,1/20/2023
+SpiceJet,6796,Mumbai,Morning,1,Night,Pune,Business,1.2,39,13366,1/21/2023
+IndiGo,8141,Bangalore,Morning,2,Evening,Kolkata,Economy,3.49,34,10593,1/22/2023
+IndiGo,2622,Delhi,Evening,1,Night,Goa,Business,1.25,26,2974,1/23/2023
+Vistara,9041,Delhi,Night,0,Morning,Goa,Economy,2.3,18,2223,1/24/2023
+SpiceJet,1341,Delhi,Afternoon,1,Night,Hyderabad,Business,3.69,21,6613,1/25/2023
+IndiGo,3074,Bangalore,Morning,0,Night,Pune,Economy,2.35,36,8777,1/26/2023
+Vistara,8992,Bangalore,Evening,1,Morning,Kolkata,Business,1.72,40,10427,1/27/2023
+SpiceJet,1645,Chennai,Evening,2,Afternoon,Kolkata,Economy,2.13,52,13690,1/28/2023
+Vistara,5263,Mumbai,Afternoon,0,Afternoon,Hyderabad,Business,2.83,46,6211,1/29/2023
+Air India,9801,Bangalore,Afternoon,2,Morning,Hyderabad,Economy,2.9,44,13426,1/30/2023
+IndiGo,7136,Mumbai,Evening,2,Night,Kolkata,Business,4.13,22,2225,1/1/2023
+Air India,9646,Chennai,Morning,0,Morning,Kolkata,Business,4.0,53,12469,1/2/2023
+SpiceJet,3969,Mumbai,Evening,0,Afternoon,Hyderabad,Business,2.83,59,10183,1/3/2023
+Air India,4028,Bangalore,Night,2,Evening,Kolkata,Economy,4.38,30,6277,1/4/2023
+Air India,8643,Mumbai,Night,2,Night,Goa,Economy,1.46,50,3341,1/5/2023
+SpiceJet,3681,Bangalore,Afternoon,2,Afternoon,Hyderabad,Economy,2.02,43,6036,1/6/2023
+Vistara,4629,Mumbai,Morning,2,Night,Kolkata,Business,4.31,30,10401,1/7/2023
+Air India,5225,Bangalore,Morning,0,Morning,Hyderabad,Economy,2.51,8,5727,1/8/2023
+Vistara,4067,Bangalore,Night,0,Evening,Pune,Business,4.92,34,5928,1/9/2023
+Air India,6941,Mumbai,Evening,2,Morning,Hyderabad,Economy,2.87,57,4803,1/10/2023
+Vistara,2386,Chennai,Afternoon,1,Evening,Hyderabad,Economy,4.17,47,11301,1/11/2023
+SpiceJet,3866,Delhi,Evening,1,Night,Pune,Economy,2.61,9,8558,1/12/2023
+Air India,5788,Chennai,Evening,0,Night,Goa,Economy,2.7,51,12218,1/13/2023
+SpiceJet,6490,Mumbai,Evening,2,Morning,Kolkata,Business,2.53,20,2393,1/14/2023
+Air India,5124,Chennai,Morning,2,Evening,Pune,Economy,3.88,40,8839,1/15/2023
+SpiceJet,9340,Bangalore,Night,0,Evening,Hyderabad,Economy,3.19,25,11035,1/16/2023
+SpiceJet,4850,Delhi,Morning,1,Night,Kolkata,Business,4.78,19,11716,1/17/2023
+Air India,6415,Mumbai,Night,1,Morning,Pune,Business,2.0,5,10795,1/18/2023
+Air India,8679,Mumbai,Afternoon,1,Evening,Kolkata,Economy,1.4,11,2581,1/19/2023
+Air India,7819,Mumbai,Afternoon,0,Night,Kolkata,Economy,2.57,15,12131,1/20/2023
+IndiGo,9378,Delhi,Evening,1,Afternoon,Pune,Business,3.47,8,2132,1/21/2023
+Vistara,2333,Bangalore,Night,0,Morning,Kolkata,Business,4.44,19,4838,1/22/2023
+IndiGo,5150,Mumbai,Night,0,Afternoon,Goa,Business,2.38,23,5385,1/23/2023
+IndiGo,7766,Chennai,Night,2,Morning,Pune,Economy,3.62,27,5770,1/24/2023
+SpiceJet,3711,Mumbai,Evening,1,Night,Goa,Economy,2.4,40,4268,1/25/2023
+Air India,5853,Mumbai,Evening,0,Evening,Hyderabad,Economy,3.47,32,2975,1/26/2023
+Vistara,7212,Mumbai,Afternoon,1,Evening,Kolkata,Business,4.54,26,9605,1/27/2023
+SpiceJet,8479,Mumbai,Morning,1,Evening,Hyderabad,Business,1.93,27,9213,1/28/2023
+IndiGo,6408,Bangalore,Night,2,Morning,Hyderabad,Business,2.62,19,12005,1/29/2023
+Air India,8715,Chennai,Night,1,Night,Kolkata,Economy,4.97,50,13455,1/30/2023
+SpiceJet,9942,Bangalore,Morning,2,Afternoon,Pune,Business,4.47,42,11735,1/1/2023
+Air India,2762,Chennai,Night,0,Night,Kolkata,Economy,3.26,29,4835,1/2/2023
+SpiceJet,8101,Mumbai,Evening,1,Afternoon,Hyderabad,Business,3.07,39,4738,1/3/2023
+Air India,8674,Delhi,Evening,0,Morning,Hyderabad,Economy,2.14,41,11549,1/4/2023
+IndiGo,7122,Bangalore,Night,1,Morning,Pune,Economy,3.07,33,6134,1/5/2023
+Vistara,1481,Delhi,Evening,0,Afternoon,Kolkata,Business,4.39,19,11508,1/6/2023
+IndiGo,1153,Bangalore,Evening,1,Afternoon,Hyderabad,Economy,3.74,37,8833,1/7/2023
+Vistara,8617,Mumbai,Night,1,Afternoon,Goa,Business,2.16,19,10353,1/8/2023
+Air India,2524,Bangalore,Afternoon,1,Night,Hyderabad,Economy,1.81,33,3909,1/9/2023
+SpiceJet,3120,Mumbai,Morning,1,Afternoon,Hyderabad,Business,2.06,47,11319,1/10/2023
+IndiGo,3343,Bangalore,Evening,1,Morning,Pune,Business,1.68,16,14062,1/11/2023
+Vistara,6136,Mumbai,Afternoon,1,Morning,Goa,Economy,1.38,23,11850,1/12/2023
+IndiGo,6760,Mumbai,Evening,1,Evening,Hyderabad,Business,2.68,7,13317,1/13/2023
+Vistara,2240,Chennai,Evening,1,Afternoon,Hyderabad,Economy,1.45,26,3963,1/14/2023
+IndiGo,1060,Mumbai,Morning,1,Night,Goa,Business,1.69,32,7153,1/15/2023
+Vistara,2639,Chennai,Evening,0,Night,Kolkata,Business,3.19,12,12481,1/16/2023
+Vistara,7185,Mumbai,Morning,2,Night,Kolkata,Business,1.66,8,2966,1/17/2023
+Air India,8970,Delhi,Morning,1,Evening,Hyderabad,Business,1.26,5,2889,1/18/2023
+Vistara,2252,Mumbai,Morning,2,Morning,Hyderabad,Economy,2.27,42,5061,1/19/2023
+Air India,5203,Delhi,Afternoon,1,Night,Kolkata,Business,1.88,28,8461,1/20/2023
+Vistara,9363,Delhi,Night,1,Morning,Pune,Business,3.06,53,8166,1/21/2023
+SpiceJet,4549,Mumbai,Afternoon,0,Evening,Goa,Economy,1.41,5,13821,1/22/2023
+SpiceJet,5197,Delhi,Night,0,Afternoon,Goa,Economy,4.01,49,8967,1/23/2023
+SpiceJet,8009,Chennai,Night,2,Afternoon,Pune,Economy,4.62,26,13381,1/24/2023
+Vistara,7667,Bangalore,Morning,0,Afternoon,Pune,Economy,3.97,5,12940,1/25/2023
+Air India,3322,Mumbai,Evening,0,Night,Pune,Economy,3.13,22,11858,1/26/2023
+Air India,5090,Delhi,Morning,2,Afternoon,Pune,Economy,4.44,15,13258,1/27/2023
+Vistara,7960,Mumbai,Evening,0,Night,Pune,Business,3.78,13,10101,1/28/2023
+SpiceJet,4004,Chennai,Night,1,Evening,Pune,Economy,1.04,28,9379,1/29/2023
+SpiceJet,6136,Mumbai,Morning,2,Evening,Goa,Business,2.58,33,11633,1/30/2023
+Air India,1329,Mumbai,Evening,2,Night,Pune,Economy,4.4,43,9280,1/1/2023
+SpiceJet,4640,Delhi,Afternoon,1,Morning,Kolkata,Business,2.38,23,3067,1/2/2023
+IndiGo,8982,Chennai,Evening,0,Afternoon,Pune,Business,1.14,33,6223,1/3/2023
+Air India,5107,Bangalore,Morning,2,Afternoon,Pune,Business,3.98,43,13115,1/4/2023
+SpiceJet,2341,Bangalore,Afternoon,2,Afternoon,Goa,Economy,4.21,18,14445,1/5/2023
+Air India,9407,Delhi,Evening,1,Night,Goa,Economy,1.64,50,14048,1/6/2023
+IndiGo,1338,Mumbai,Evening,1,Evening,Pune,Economy,3.15,53,11018,1/7/2023
+Air India,6895,Delhi,Evening,0,Afternoon,Goa,Economy,1.77,30,6607,1/8/2023
+Air India,3708,Delhi,Evening,2,Evening,Hyderabad,Business,3.88,26,5985,1/9/2023
+Air India,2750,Delhi,Evening,0,Afternoon,Goa,Economy,2.09,16,12284,1/10/2023
+Air India,6604,Mumbai,Afternoon,0,Afternoon,Goa,Business,2.26,13,5179,1/11/2023
+IndiGo,3421,Chennai,Night,1,Night,Goa,Business,4.38,39,6538,1/12/2023
+Vistara,8119,Delhi,Afternoon,2,Morning,Goa,Economy,2.91,33,14093,1/13/2023
+Air India,9901,Mumbai,Afternoon,2,Night,Kolkata,Economy,3.68,26,4362,1/14/2023
+Air India,6319,Chennai,Afternoon,2,Afternoon,Kolkata,Economy,2.61,48,4224,1/15/2023
+SpiceJet,7609,Delhi,Night,1,Afternoon,Kolkata,Business,2.19,1,8371,1/16/2023
+Air India,6387,Bangalore,Morning,1,Morning,Pune,Economy,3.5,49,3726,1/17/2023
+SpiceJet,4993,Chennai,Night,1,Evening,Pune,Business,1.62,38,12198,1/18/2023
+Vistara,9680,Delhi,Afternoon,1,Evening,Hyderabad,Economy,2.49,2,7791,1/19/2023
+IndiGo,9044,Chennai,Evening,1,Afternoon,Kolkata,Business,1.84,49,10073,1/20/2023
+IndiGo,9238,Chennai,Evening,2,Evening,Pune,Economy,3.78,6,10458,1/21/2023
+Vistara,5873,Chennai,Afternoon,0,Afternoon,Goa,Economy,4.78,46,9013,1/22/2023
+IndiGo,5806,Chennai,Evening,2,Morning,Goa,Business,4.98,50,2837,1/23/2023
+Vistara,9592,Chennai,Afternoon,0,Morning,Kolkata,Economy,2.8,38,6584,1/24/2023
+Vistara,6913,Chennai,Evening,1,Afternoon,Hyderabad,Economy,2.01,42,14989,1/25/2023
+Vistara,8124,Delhi,Night,0,Morning,Hyderabad,Economy,2.77,24,2686,1/26/2023
+IndiGo,4157,Bangalore,Morning,2,Night,Goa,Economy,4.39,18,13553,1/27/2023
+SpiceJet,1390,Mumbai,Morning,2,Night,Hyderabad,Economy,1.82,27,2356,1/28/2023
+Vistara,5430,Chennai,Night,0,Morning,Kolkata,Economy,4.81,41,14007,1/29/2023
+Air India,9820,Mumbai,Night,1,Afternoon,Goa,Economy,2.37,8,11063,1/30/2023
+IndiGo,8686,Delhi,Afternoon,1,Afternoon,Pune,Business,4.94,28,12165,1/1/2023
+Vistara,5232,Chennai,Afternoon,2,Morning,Pune,Business,4.35,10,6647,1/2/2023
+Vistara,9007,Bangalore,Afternoon,0,Evening,Hyderabad,Economy,4.23,17,12002,1/3/2023
+Air India,2521,Mumbai,Evening,1,Night,Goa,Economy,2.27,55,6418,1/4/2023
+SpiceJet,2500,Chennai,Afternoon,1,Evening,Goa,Economy,1.04,29,12833,1/5/2023
+SpiceJet,7737,Delhi,Night,2,Afternoon,Pune,Business,2.53,58,12420,1/6/2023
+SpiceJet,4294,Bangalore,Morning,1,Afternoon,Goa,Business,2.21,6,8642,1/7/2023
+Vistara,6085,Mumbai,Evening,0,Evening,Goa,Economy,1.15,14,5391,1/8/2023
+Vistara,3419,Mumbai,Afternoon,2,Morning,Goa,Business,3.02,22,14370,1/9/2023
+Vistara,4042,Chennai,Evening,2,Evening,Hyderabad,Economy,2.61,54,12542,1/10/2023
+IndiGo,5497,Bangalore,Evening,0,Evening,Goa,Economy,3.54,6,6357,1/11/2023
+Air India,2466,Bangalore,Afternoon,2,Night,Kolkata,Economy,3.48,26,6879,1/12/2023
+Vistara,4561,Bangalore,Evening,1,Night,Hyderabad,Economy,1.48,39,7319,1/13/2023
+Air India,1614,Bangalore,Morning,1,Evening,Goa,Business,4.91,12,4739,1/14/2023
+Air India,6392,Delhi,Night,0,Evening,Goa,Business,1.75,35,12922,1/15/2023
+SpiceJet,8693,Bangalore,Night,1,Afternoon,Kolkata,Economy,2.78,14,11510,1/16/2023
+IndiGo,4223,Mumbai,Morning,0,Night,Hyderabad,Business,2.95,22,11727,1/17/2023
+Vistara,8138,Mumbai,Evening,0,Night,Pune,Business,4.25,51,6784,1/18/2023
+SpiceJet,3667,Delhi,Afternoon,1,Afternoon,Pune,Economy,1.4,23,12635,1/19/2023
+SpiceJet,8980,Mumbai,Evening,0,Morning,Hyderabad,Business,2.71,48,11964,1/20/2023
+Vistara,1130,Mumbai,Morning,1,Night,Goa,Economy,3.51,7,13401,1/21/2023
+Air India,3983,Bangalore,Evening,2,Night,Goa,Economy,1.86,40,2877,1/22/2023
+SpiceJet,5278,Mumbai,Night,2,Morning,Pune,Economy,3.51,50,4870,1/23/2023
+Air India,8126,Delhi,Evening,0,Night,Pune,Economy,4.69,25,13392,1/24/2023
+IndiGo,9230,Bangalore,Morning,1,Night,Pune,Business,4.99,13,14336,1/25/2023
+Air India,8694,Chennai,Night,1,Morning,Kolkata,Economy,1.13,21,13939,1/26/2023
+IndiGo,7640,Bangalore,Evening,2,Morning,Pune,Business,1.94,41,13028,1/27/2023
+Air India,6468,Delhi,Evening,2,Evening,Kolkata,Economy,2.24,10,2292,1/28/2023
+SpiceJet,1920,Bangalore,Night,1,Afternoon,Hyderabad,Economy,2.6,53,11843,1/29/2023
+SpiceJet,8564,Bangalore,Afternoon,0,Afternoon,Goa,Business,1.97,55,14823,1/30/2023
+IndiGo,9684,Delhi,Night,2,Morning,Pune,Economy,1.81,59,14598,1/1/2023
+Vistara,9502,Bangalore,Afternoon,0,Morning,Goa,Business,4.82,9,10728,1/2/2023
+IndiGo,9930,Delhi,Morning,0,Night,Goa,Business,4.67,15,4686,1/3/2023
+IndiGo,4241,Delhi,Morning,2,Evening,Pune,Economy,1.19,52,2233,1/4/2023
+Air India,1545,Chennai,Night,0,Evening,Pune,Economy,2.36,2,12844,1/5/2023
+Air India,5346,Mumbai,Night,0,Morning,Hyderabad,Economy,2.62,25,4374,1/6/2023
+IndiGo,4810,Mumbai,Morning,1,Night,Kolkata,Economy,1.96,13,4272,1/7/2023
+SpiceJet,8206,Bangalore,Afternoon,0,Night,Kolkata,Economy,3.52,34,2966,1/8/2023
+Air India,3032,Bangalore,Morning,1,Afternoon,Goa,Economy,3.56,51,2889,1/9/2023
+Vistara,9436,Chennai,Night,2,Afternoon,Pune,Business,4.4,58,5863,1/10/2023
+Air India,1271,Chennai,Morning,2,Night,Hyderabad,Business,3.96,34,8154,1/11/2023
+Air India,4511,Chennai,Night,1,Afternoon,Hyderabad,Economy,3.17,35,5400,1/12/2023
+Vistara,2771,Delhi,Night,2,Morning,Hyderabad,Business,3.61,38,10226,1/13/2023
+IndiGo,5361,Chennai,Morning,0,Night,Hyderabad,Business,2.1,3,6542,1/14/2023
+Vistara,8069,Chennai,Afternoon,0,Afternoon,Hyderabad,Economy,3.37,42,5523,1/15/2023
+IndiGo,1920,Bangalore,Evening,0,Evening,Kolkata,Economy,2.96,56,3763,1/16/2023
+IndiGo,9190,Chennai,Morning,2,Night,Kolkata,Business,1.53,59,5291,1/17/2023
+IndiGo,4430,Delhi,Evening,0,Night,Kolkata,Economy,1.97,6,4488,1/18/2023
+Vistara,5435,Delhi,Morning,2,Evening,Pune,Business,2.17,55,12892,1/19/2023
+IndiGo,4760,Bangalore,Evening,0,Morning,Goa,Economy,4.7,48,3558,1/20/2023
+SpiceJet,3050,Chennai,Afternoon,1,Evening,Hyderabad,Business,1.92,49,6690,1/21/2023
+Vistara,2165,Chennai,Afternoon,2,Night,Pune,Business,2.16,19,8121,1/22/2023
+SpiceJet,9567,Delhi,Morning,2,Morning,Hyderabad,Business,2.48,3,4276,1/23/2023
+IndiGo,3033,Chennai,Night,0,Afternoon,Kolkata,Business,3.65,18,14198,1/24/2023
+Air India,7467,Chennai,Evening,2,Afternoon,Pune,Economy,1.47,39,6439,1/25/2023
+IndiGo,1145,Chennai,Night,2,Afternoon,Kolkata,Economy,4.82,9,3103,1/26/2023
+SpiceJet,5388,Mumbai,Night,1,Night,Hyderabad,Business,4.46,52,9520,1/27/2023
+SpiceJet,8832,Bangalore,Night,1,Evening,Hyderabad,Business,3.31,12,11611,1/28/2023
+Vistara,9623,Mumbai,Afternoon,0,Morning,Goa,Economy,3.7,5,7409,1/29/2023
+Air India,9896,Bangalore,Morning,1,Afternoon,Hyderabad,Economy,1.07,3,11670,1/30/2023
+Vistara,9173,Delhi,Morning,0,Morning,Kolkata,Business,2.36,11,14106,1/1/2023
+SpiceJet,3632,Chennai,Afternoon,0,Night,Hyderabad,Business,4.18,57,13934,1/2/2023
+IndiGo,5494,Bangalore,Afternoon,0,Afternoon,Goa,Business,1.31,30,9869,1/3/2023
+Air India,9056,Mumbai,Morning,2,Night,Goa,Business,2.13,4,4956,1/4/2023
+IndiGo,8511,Chennai,Night,1,Evening,Kolkata,Business,3.34,5,9710,1/5/2023
+IndiGo,2828,Delhi,Evening,0,Night,Pune,Economy,2.03,1,8017,1/6/2023
+Air India,5805,Bangalore,Evening,1,Night,Hyderabad,Business,4.74,27,11574,1/7/2023
+Vistara,1806,Bangalore,Evening,0,Evening,Goa,Economy,1.52,28,12766,1/8/2023
+IndiGo,8486,Bangalore,Night,1,Morning,Hyderabad,Economy,4.19,29,5384,1/9/2023
+SpiceJet,9202,Chennai,Morning,1,Evening,Hyderabad,Economy,3.03,18,11761,1/10/2023
+IndiGo,2868,Mumbai,Afternoon,0,Evening,Pune,Business,4.0,12,12086,1/11/2023
+Air India,8878,Mumbai,Morning,2,Night,Goa,Economy,2.24,13,12435,1/12/2023
+Air India,6690,Bangalore,Night,1,Morning,Hyderabad,Economy,3.06,41,12058,1/13/2023
+Air India,8827,Delhi,Afternoon,2,Afternoon,Goa,Economy,4.43,2,2028,1/14/2023
+Vistara,6429,Delhi,Night,2,Evening,Kolkata,Economy,2.87,37,10897,1/15/2023
+IndiGo,4564,Mumbai,Evening,0,Morning,Kolkata,Business,2.44,45,11212,1/16/2023
+Vistara,2389,Delhi,Evening,0,Evening,Hyderabad,Business,3.14,16,12255,1/17/2023
+Vistara,8274,Mumbai,Night,0,Evening,Goa,Economy,3.87,48,11638,1/18/2023
+Air India,1824,Bangalore,Afternoon,1,Evening,Hyderabad,Economy,2.77,24,9756,1/19/2023
+Air India,3265,Mumbai,Afternoon,0,Evening,Goa,Business,4.76,35,8948,1/20/2023
+Vistara,1936,Mumbai,Morning,0,Night,Goa,Business,2.18,22,13856,1/21/2023
+IndiGo,7402,Bangalore,Evening,1,Morning,Pune,Business,2.9,36,13179,1/22/2023
+SpiceJet,4845,Delhi,Morning,1,Morning,Pune,Economy,4.03,11,7755,1/23/2023
+Vistara,2796,Mumbai,Morning,0,Morning,Pune,Business,3.76,55,5602,1/24/2023
+IndiGo,9245,Mumbai,Night,0,Evening,Hyderabad,Economy,4.45,58,7062,1/25/2023
+Air India,8214,Bangalore,Night,0,Night,Pune,Economy,4.99,46,13877,1/26/2023
+Air India,1726,Delhi,Morning,0,Evening,Pune,Business,2.71,29,10071,1/27/2023
+IndiGo,3736,Mumbai,Evening,2,Evening,Kolkata,Economy,1.44,35,9244,1/28/2023
+SpiceJet,2913,Bangalore,Night,2,Morning,Goa,Business,1.12,48,8372,1/29/2023
+Air India,8657,Mumbai,Morning,0,Evening,Goa,Economy,3.91,54,9105,1/30/2023
+Air India,3466,Chennai,Morning,2,Afternoon,Pune,Business,4.5,15,13560,1/1/2023
+Air India,8312,Bangalore,Morning,1,Evening,Goa,Economy,1.88,31,5581,1/2/2023
+IndiGo,9194,Delhi,Morning,2,Afternoon,Kolkata,Economy,1.63,42,4762,1/3/2023
+Vistara,8906,Delhi,Morning,2,Evening,Kolkata,Business,1.25,41,14229,1/4/2023
+Air India,5876,Delhi,Morning,0,Night,Pune,Business,4.29,43,2572,1/5/2023
+Vistara,8287,Delhi,Night,2,Night,Kolkata,Business,2.25,16,9705,1/6/2023
+SpiceJet,1892,Mumbai,Evening,2,Morning,Goa,Business,2.61,10,14280,1/7/2023
+Air India,5675,Mumbai,Morning,2,Evening,Hyderabad,Economy,3.01,49,2614,1/8/2023
+Air India,2933,Delhi,Afternoon,2,Afternoon,Goa,Business,4.36,32,6050,1/9/2023
+SpiceJet,2380,Delhi,Night,1,Afternoon,Hyderabad,Business,3.6,51,2325,1/10/2023
+Air India,2290,Delhi,Night,0,Evening,Pune,Economy,3.46,2,5740,1/11/2023
+Vistara,2640,Mumbai,Morning,0,Afternoon,Hyderabad,Business,1.7,24,2358,1/12/2023
+IndiGo,8490,Delhi,Night,1,Night,Kolkata,Business,3.05,23,5777,1/13/2023
+Vistara,2218,Delhi,Morning,2,Afternoon,Goa,Economy,3.86,2,7906,1/14/2023
+IndiGo,6016,Chennai,Evening,1,Morning,Hyderabad,Business,4.89,38,12563,1/15/2023
+IndiGo,7881,Chennai,Evening,2,Night,Goa,Business,1.81,31,3721,1/16/2023
+Vistara,1954,Delhi,Night,1,Night,Pune,Business,1.04,51,3349,1/17/2023
+Vistara,8291,Bangalore,Night,0,Night,Pune,Business,1.3,40,5696,1/18/2023
+Vistara,1974,Delhi,Afternoon,0,Evening,Kolkata,Business,2.5,26,5896,1/19/2023
+Vistara,5133,Chennai,Night,0,Evening,Pune,Business,4.28,29,6260,1/20/2023
+SpiceJet,6370,Bangalore,Afternoon,2,Night,Hyderabad,Economy,1.03,3,11788,1/21/2023
+Air India,4972,Bangalore,Evening,2,Evening,Pune,Business,2.83,58,11819,1/22/2023
+IndiGo,6295,Delhi,Evening,1,Afternoon,Kolkata,Economy,2.32,14,8941,1/23/2023
+Vistara,9228,Chennai,Morning,1,Evening,Goa,Economy,1.21,25,12694,1/24/2023
+Vistara,4020,Chennai,Evening,0,Evening,Goa,Economy,2.8,48,5808,1/25/2023
+Vistara,9987,Bangalore,Afternoon,2,Night,Pune,Economy,2.02,1,7246,1/26/2023
+SpiceJet,5036,Delhi,Night,1,Morning,Hyderabad,Business,2.41,53,10384,1/27/2023
+Vistara,6068,Mumbai,Morning,2,Morning,Kolkata,Business,3.82,3,12866,1/28/2023
+Vistara,6233,Mumbai,Afternoon,2,Morning,Hyderabad,Business,3.09,54,5845,1/29/2023
+Vistara,1317,Chennai,Night,0,Afternoon,Kolkata,Economy,1.5,26,4577,1/30/2023
+Air India,3396,Mumbai,Morning,0,Evening,Pune,Business,4.85,18,2091,1/1/2023
+SpiceJet,3162,Chennai,Evening,2,Morning,Kolkata,Business,3.54,9,6234,1/2/2023
+Vistara,3745,Chennai,Afternoon,2,Night,Kolkata,Business,4.06,38,10672,1/3/2023
+IndiGo,2591,Chennai,Night,2,Morning,Pune,Economy,1.32,23,8592,1/4/2023
+IndiGo,7183,Mumbai,Morning,2,Morning,Hyderabad,Economy,1.19,21,13108,1/5/2023
+IndiGo,4930,Chennai,Morning,0,Evening,Pune,Business,1.08,57,14627,1/6/2023
+SpiceJet,2312,Bangalore,Evening,1,Evening,Kolkata,Economy,1.76,1,10128,1/7/2023
+SpiceJet,5311,Delhi,Night,0,Evening,Pune,Economy,2.66,21,3075,1/8/2023
+IndiGo,8314,Delhi,Evening,1,Afternoon,Kolkata,Business,4.74,27,4513,1/9/2023
+Vistara,3383,Chennai,Evening,2,Afternoon,Pune,Economy,2.83,42,10168,1/10/2023
+SpiceJet,4239,Delhi,Night,1,Morning,Goa,Economy,2.16,59,8861,1/11/2023
+IndiGo,3139,Mumbai,Night,0,Evening,Goa,Business,3.25,6,10990,1/12/2023
+IndiGo,2704,Mumbai,Night,0,Morning,Pune,Economy,1.45,55,14762,1/13/2023
+Vistara,7924,Delhi,Afternoon,2,Night,Hyderabad,Economy,3.44,44,14141,1/14/2023
+Air India,1362,Mumbai,Night,0,Night,Kolkata,Economy,3.27,36,2604,1/15/2023
+SpiceJet,3604,Delhi,Morning,2,Evening,Goa,Economy,4.17,28,4979,1/16/2023
+Vistara,5286,Delhi,Evening,0,Evening,Hyderabad,Economy,4.95,45,9140,1/17/2023
+IndiGo,4738,Delhi,Afternoon,0,Night,Kolkata,Economy,2.0,17,9065,1/18/2023
+IndiGo,3469,Chennai,Night,2,Evening,Goa,Economy,3.04,59,6916,1/19/2023
+Vistara,5795,Delhi,Afternoon,1,Afternoon,Goa,Economy,4.64,40,8800,1/20/2023
+SpiceJet,7150,Chennai,Night,0,Afternoon,Pune,Business,4.14,58,2597,1/21/2023
+Air India,1556,Delhi,Afternoon,1,Evening,Kolkata,Business,2.95,52,11724,1/22/2023
+Air India,3808,Delhi,Evening,0,Night,Hyderabad,Business,4.78,3,9320,1/23/2023
+IndiGo,6150,Delhi,Evening,0,Morning,Hyderabad,Business,1.23,12,10705,1/24/2023
+SpiceJet,8561,Mumbai,Morning,0,Evening,Hyderabad,Economy,4.72,39,7622,1/25/2023
+Air India,3719,Chennai,Morning,0,Evening,Kolkata,Business,1.2,12,3877,1/26/2023
+SpiceJet,7506,Chennai,Night,1,Morning,Hyderabad,Business,3.19,2,14164,1/27/2023
+SpiceJet,4741,Delhi,Evening,1,Evening,Hyderabad,Economy,4.56,56,14035,1/28/2023
+IndiGo,4998,Delhi,Afternoon,0,Morning,Hyderabad,Economy,2.05,46,3699,1/29/2023
+Air India,3403,Mumbai,Afternoon,0,Night,Pune,Economy,2.89,22,11221,1/30/2023
+Vistara,9780,Mumbai,Afternoon,1,Afternoon,Pune,Economy,2.3,23,14787,1/1/2023
+IndiGo,1294,Mumbai,Morning,2,Night,Kolkata,Economy,4.81,30,7780,1/2/2023
+Air India,6343,Chennai,Afternoon,2,Afternoon,Kolkata,Business,4.29,5,2716,1/3/2023
+Air India,2136,Chennai,Morning,1,Morning,Hyderabad,Economy,3.84,9,6086,1/4/2023
+Air India,3064,Chennai,Morning,0,Afternoon,Pune,Business,3.35,21,2665,1/5/2023
+Air India,8009,Delhi,Night,0,Night,Goa,Business,4.28,11,9846,1/6/2023
+Air India,5543,Chennai,Afternoon,2,Afternoon,Goa,Economy,2.57,5,8611,1/7/2023
+SpiceJet,2007,Bangalore,Afternoon,2,Morning,Hyderabad,Business,2.79,35,12400,1/8/2023
+IndiGo,6445,Bangalore,Evening,1,Afternoon,Hyderabad,Business,3.92,27,3079,1/9/2023
+SpiceJet,6352,Mumbai,Night,2,Evening,Pune,Economy,2.43,49,10419,1/10/2023
+Vistara,2435,Chennai,Evening,1,Night,Pune,Business,1.26,2,10340,1/11/2023
+Air India,1571,Bangalore,Night,2,Evening,Pune,Business,1.3,24,3069,1/12/2023
+IndiGo,3382,Mumbai,Afternoon,2,Morning,Kolkata,Business,1.46,31,7263,1/13/2023
+Air India,6084,Chennai,Morning,2,Afternoon,Kolkata,Economy,4.48,33,9951,1/14/2023
+IndiGo,1277,Delhi,Morning,0,Evening,Hyderabad,Economy,2.89,39,14919,1/15/2023
+SpiceJet,8059,Bangalore,Morning,0,Evening,Kolkata,Economy,3.85,30,3363,1/16/2023
+IndiGo,2887,Delhi,Morning,0,Afternoon,Pune,Business,2.57,46,6508,1/17/2023
+Vistara,2265,Chennai,Morning,2,Afternoon,Pune,Economy,2.03,37,3755,1/18/2023
+Vistara,8491,Bangalore,Evening,1,Night,Kolkata,Business,2.39,51,2519,1/19/2023
+IndiGo,2040,Chennai,Night,1,Evening,Goa,Economy,4.18,28,7463,1/20/2023
+IndiGo,9073,Delhi,Afternoon,1,Evening,Hyderabad,Business,3.5,31,13736,1/21/2023
+IndiGo,3752,Bangalore,Evening,1,Morning,Goa,Economy,4.75,11,12514,1/22/2023
+IndiGo,9213,Delhi,Night,0,Night,Hyderabad,Economy,3.72,23,9233,1/23/2023
+Vistara,5569,Chennai,Morning,0,Morning,Goa,Business,3.28,57,3102,1/24/2023
+Air India,7353,Chennai,Night,2,Evening,Kolkata,Economy,3.44,2,2597,1/25/2023
+IndiGo,3353,Delhi,Night,2,Morning,Hyderabad,Business,4.77,40,5273,1/26/2023
+IndiGo,8437,Bangalore,Morning,1,Evening,Hyderabad,Economy,4.15,41,14241,1/27/2023
+Vistara,5799,Delhi,Morning,0,Evening,Hyderabad,Economy,1.1,27,7781,1/28/2023
+Vistara,1686,Chennai,Morning,1,Morning,Pune,Business,3.14,35,12797,1/29/2023
+SpiceJet,9476,Delhi,Afternoon,2,Morning,Pune,Business,3.75,2,8256,1/30/2023
+IndiGo,5811,Chennai,Morning,2,Afternoon,Goa,Business,3.99,39,9258,1/1/2023
+SpiceJet,9954,Delhi,Afternoon,1,Afternoon,Kolkata,Economy,1.85,37,12380,1/2/2023
+Vistara,6346,Bangalore,Morning,2,Afternoon,Pune,Business,4.47,21,10780,1/3/2023
+Vistara,6043,Bangalore,Afternoon,1,Evening,Hyderabad,Economy,4.82,58,8554,1/4/2023
+Air India,3428,Delhi,Night,0,Morning,Pune,Business,1.95,5,14664,1/5/2023
+IndiGo,6126,Delhi,Evening,1,Night,Kolkata,Business,4.53,52,11599,1/6/2023
+SpiceJet,9220,Bangalore,Night,0,Evening,Pune,Business,1.39,45,10002,1/7/2023
+Vistara,8813,Chennai,Night,0,Night,Hyderabad,Business,1.22,21,6846,1/8/2023
+Vistara,4356,Bangalore,Morning,2,Morning,Goa,Business,1.52,29,14914,1/9/2023
+SpiceJet,9707,Chennai,Afternoon,2,Evening,Hyderabad,Business,1.23,20,13582,1/10/2023
+Air India,8266,Delhi,Evening,2,Night,Kolkata,Economy,4.38,38,13632,1/11/2023
+Vistara,7540,Delhi,Morning,1,Night,Goa,Business,1.24,20,11821,1/12/2023
+IndiGo,1038,Chennai,Morning,1,Afternoon,Pune,Economy,2.09,50,11186,1/13/2023
+Vistara,4342,Delhi,Morning,2,Afternoon,Pune,Business,1.42,25,6798,1/14/2023
+IndiGo,3844,Chennai,Night,1,Afternoon,Pune,Business,2.18,2,8605,1/15/2023
+SpiceJet,2098,Mumbai,Afternoon,2,Evening,Goa,Business,1.36,57,12251,1/16/2023
+IndiGo,8027,Bangalore,Afternoon,1,Morning,Hyderabad,Economy,3.67,32,14764,1/17/2023
+SpiceJet,2823,Mumbai,Evening,0,Morning,Goa,Economy,1.53,26,4986,1/18/2023
+IndiGo,4155,Chennai,Afternoon,0,Afternoon,Goa,Business,4.41,6,2400,1/19/2023
+SpiceJet,4093,Bangalore,Afternoon,2,Afternoon,Kolkata,Economy,4.27,41,4855,1/20/2023
+IndiGo,6658,Chennai,Morning,1,Afternoon,Goa,Business,1.05,57,12416,1/21/2023
+Air India,4778,Bangalore,Morning,1,Night,Pune,Business,4.58,3,5412,1/22/2023
+IndiGo,3896,Bangalore,Night,0,Afternoon,Hyderabad,Economy,1.12,33,2056,1/23/2023
+IndiGo,1988,Bangalore,Morning,0,Night,Hyderabad,Economy,1.96,1,10022,1/24/2023
+Air India,5116,Bangalore,Morning,2,Morning,Hyderabad,Economy,1.13,51,3875,1/25/2023
+Vistara,7446,Chennai,Morning,0,Evening,Pune,Economy,2.34,5,6543,1/26/2023
+Vistara,5179,Bangalore,Morning,2,Evening,Pune,Business,3.06,13,6298,1/27/2023
+IndiGo,2682,Bangalore,Night,0,Evening,Pune,Economy,4.19,19,5768,1/28/2023
+Air India,6626,Mumbai,Morning,0,Evening,Pune,Economy,2.35,12,7752,1/29/2023
+IndiGo,8424,Delhi,Evening,1,Night,Pune,Business,3.82,48,6833,1/30/2023
+SpiceJet,1933,Delhi,Evening,0,Night,Goa,Economy,1.75,25,14489,1/1/2023
+SpiceJet,4598,Mumbai,Evening,0,Afternoon,Pune,Economy,4.0,57,3353,1/2/2023
+IndiGo,2980,Mumbai,Evening,2,Night,Pune,Economy,1.94,51,12602,1/3/2023
+Vistara,4056,Chennai,Morning,0,Afternoon,Pune,Economy,1.57,35,6987,1/4/2023
+Vistara,9984,Chennai,Evening,2,Afternoon,Pune,Business,1.74,12,8597,1/5/2023
+IndiGo,1791,Chennai,Morning,0,Evening,Hyderabad,Business,1.73,30,6311,1/6/2023
+IndiGo,6390,Mumbai,Night,0,Night,Pune,Economy,3.05,5,12794,1/7/2023
+SpiceJet,7635,Mumbai,Evening,2,Night,Goa,Economy,4.38,34,4934,1/8/2023
+Vistara,3255,Bangalore,Afternoon,1,Afternoon,Goa,Business,1.32,22,2022,1/9/2023
+IndiGo,4610,Chennai,Evening,2,Afternoon,Goa,Economy,3.83,39,12394,1/10/2023
+SpiceJet,2607,Chennai,Evening,2,Morning,Kolkata,Economy,3.62,13,3209,1/11/2023
+Vistara,6179,Chennai,Morning,2,Morning,Hyderabad,Economy,4.49,57,12488,1/12/2023
+Air India,7573,Delhi,Evening,1,Afternoon,Pune,Economy,1.98,47,10940,1/13/2023
+SpiceJet,1984,Bangalore,Afternoon,0,Morning,Kolkata,Economy,2.8,54,2804,1/14/2023
+Vistara,6776,Chennai,Morning,2,Morning,Pune,Economy,4.7,3,10325,1/15/2023
+Vistara,4676,Chennai,Morning,2,Afternoon,Kolkata,Economy,3.64,53,6416,1/16/2023
+SpiceJet,4380,Chennai,Night,1,Afternoon,Kolkata,Economy,2.56,20,12629,1/17/2023
+Air India,9711,Delhi,Night,2,Night,Goa,Economy,1.53,31,10625,1/18/2023
+SpiceJet,9782,Delhi,Evening,0,Afternoon,Goa,Business,2.05,5,7141,1/19/2023
+Vistara,2050,Mumbai,Night,1,Afternoon,Kolkata,Business,3.32,24,6968,1/20/2023
+IndiGo,4633,Bangalore,Night,0,Evening,Goa,Business,3.87,40,5671,1/21/2023
+IndiGo,7342,Mumbai,Night,0,Night,Kolkata,Economy,1.5,54,13928,1/22/2023
+SpiceJet,1959,Bangalore,Morning,1,Night,Hyderabad,Economy,3.4,33,9292,1/23/2023
+Vistara,7059,Delhi,Morning,2,Night,Goa,Business,3.2,8,9001,1/24/2023
+IndiGo,9884,Chennai,Morning,0,Evening,Goa,Economy,3.06,24,14231,1/25/2023
+Vistara,6655,Mumbai,Night,0,Afternoon,Goa,Business,3.76,50,4098,1/26/2023
+SpiceJet,5473,Chennai,Morning,0,Night,Hyderabad,Economy,4.35,20,13109,1/27/2023
+IndiGo,3946,Mumbai,Night,0,Night,Kolkata,Business,2.29,16,10444,1/28/2023
+Vistara,8725,Delhi,Morning,1,Morning,Pune,Business,4.56,50,7061,1/29/2023
+IndiGo,1526,Delhi,Morning,1,Night,Goa,Business,1.64,52,11321,1/30/2023
+SpiceJet,4224,Delhi,Afternoon,0,Afternoon,Kolkata,Economy,1.69,12,5264,1/1/2023
+Vistara,2875,Mumbai,Evening,2,Afternoon,Hyderabad,Business,2.07,13,7435,1/2/2023
+IndiGo,2763,Bangalore,Night,0,Morning,Pune,Economy,1.48,45,10493,1/3/2023
+SpiceJet,9712,Mumbai,Afternoon,2,Night,Goa,Economy,1.92,42,8691,1/4/2023
+IndiGo,6797,Bangalore,Morning,0,Night,Hyderabad,Economy,1.43,39,12169,1/5/2023
+IndiGo,8099,Mumbai,Night,2,Night,Hyderabad,Economy,4.29,25,4763,1/6/2023
+Air India,6109,Mumbai,Morning,0,Evening,Pune,Economy,1.56,46,6005,1/7/2023
+Air India,7644,Delhi,Evening,2,Night,Kolkata,Economy,3.99,32,5241,1/8/2023
+SpiceJet,1116,Chennai,Afternoon,0,Afternoon,Goa,Economy,1.19,24,5057,1/9/2023
+Air India,3433,Chennai,Evening,0,Afternoon,Goa,Business,4.79,48,2550,1/10/2023
+SpiceJet,6463,Bangalore,Afternoon,2,Evening,Kolkata,Business,3.84,47,7574,1/11/2023
+Air India,1583,Chennai,Morning,1,Evening,Kolkata,Business,1.03,44,7411,1/12/2023
+IndiGo,9586,Mumbai,Evening,2,Night,Kolkata,Economy,4.06,9,3587,1/13/2023
+SpiceJet,4788,Mumbai,Evening,1,Morning,Pune,Economy,3.06,40,12014,1/14/2023
+SpiceJet,5167,Delhi,Morning,0,Evening,Pune,Economy,4.12,50,7920,1/15/2023
+IndiGo,9465,Delhi,Evening,2,Evening,Goa,Economy,3.09,23,7260,1/16/2023
+SpiceJet,2389,Chennai,Night,2,Night,Pune,Business,3.56,50,13409,1/17/2023
+SpiceJet,9357,Bangalore,Afternoon,2,Night,Hyderabad,Economy,4.15,13,13688,1/18/2023
+Air India,7154,Chennai,Afternoon,1,Evening,Goa,Business,2.62,59,6409,1/19/2023
+SpiceJet,6420,Chennai,Afternoon,1,Morning,Pune,Economy,1.01,32,14471,1/20/2023
+Vistara,9920,Chennai,Night,0,Evening,Kolkata,Business,4.4,50,7783,1/21/2023
+IndiGo,3043,Chennai,Afternoon,1,Night,Hyderabad,Economy,2.52,15,2712,1/22/2023
+Air India,5197,Mumbai,Morning,1,Night,Kolkata,Business,2.98,36,12367,1/23/2023
+Air India,4496,Bangalore,Evening,0,Evening,Goa,Economy,1.03,49,7406,1/24/2023
+Vistara,1778,Mumbai,Night,2,Morning,Kolkata,Business,2.97,5,9990,1/25/2023
+IndiGo,1213,Bangalore,Afternoon,2,Evening,Pune,Economy,4.95,22,9420,1/26/2023
+IndiGo,4762,Delhi,Morning,0,Evening,Pune,Business,2.11,16,14264,1/27/2023
+Air India,7731,Chennai,Evening,2,Night,Goa,Business,2.58,41,14041,1/28/2023
+SpiceJet,4117,Mumbai,Evening,1,Morning,Kolkata,Economy,3.75,10,8843,1/29/2023
+Air India,6791,Bangalore,Night,0,Afternoon,Goa,Business,4.26,24,4433,1/30/2023
+IndiGo,9783,Delhi,Night,0,Morning,Kolkata,Economy,2.67,18,5301,1/1/2023
+Vistara,3720,Delhi,Night,0,Evening,Hyderabad,Economy,2.24,49,2270,1/2/2023
+Air India,9905,Chennai,Morning,2,Evening,Pune,Economy,4.75,18,11986,1/3/2023
+IndiGo,7047,Bangalore,Morning,0,Evening,Goa,Business,3.71,7,12654,1/4/2023
+Air India,9032,Mumbai,Night,0,Morning,Hyderabad,Business,1.48,4,14485,1/5/2023
+SpiceJet,1001,Chennai,Afternoon,0,Night,Hyderabad,Economy,1.28,26,13586,1/6/2023
+Air India,7368,Mumbai,Evening,2,Evening,Goa,Economy,2.93,5,3079,1/7/2023
+Air India,2949,Delhi,Evening,1,Evening,Goa,Business,1.88,55,13070,1/8/2023
+IndiGo,7732,Mumbai,Morning,0,Morning,Hyderabad,Business,2.02,16,7322,1/9/2023
+IndiGo,8833,Mumbai,Evening,1,Afternoon,Kolkata,Business,4.51,35,14915,1/10/2023
+IndiGo,1917,Chennai,Afternoon,2,Afternoon,Hyderabad,Economy,1.36,26,10795,1/11/2023
+Air India,4174,Mumbai,Evening,2,Night,Goa,Economy,3.86,18,7257,1/12/2023
+SpiceJet,8014,Chennai,Morning,2,Night,Hyderabad,Economy,2.08,29,9982,1/13/2023
+Vistara,1089,Delhi,Morning,2,Evening,Kolkata,Economy,4.04,23,11777,1/14/2023
+Vistara,2709,Chennai,Afternoon,1,Morning,Pune,Economy,3.89,53,13249,1/15/2023
+IndiGo,4041,Chennai,Afternoon,0,Evening,Pune,Business,1.03,14,8214,1/16/2023
+IndiGo,1105,Bangalore,Evening,2,Night,Hyderabad,Economy,3.04,15,7006,1/17/2023
+Air India,9619,Mumbai,Evening,2,Morning,Kolkata,Business,1.56,49,5985,1/18/2023
+Vistara,2895,Delhi,Morning,1,Morning,Pune,Business,4.46,33,14881,1/19/2023
+IndiGo,7090,Chennai,Afternoon,1,Night,Hyderabad,Economy,4.49,25,11587,1/20/2023
+SpiceJet,9508,Delhi,Afternoon,2,Afternoon,Hyderabad,Business,2.67,21,13880,1/21/2023
+SpiceJet,7082,Bangalore,Afternoon,0,Afternoon,Kolkata,Economy,2.78,17,10791,1/22/2023
+IndiGo,1634,Mumbai,Evening,0,Morning,Goa,Business,2.21,23,10705,1/23/2023
+IndiGo,2925,Chennai,Afternoon,2,Evening,Hyderabad,Economy,3.87,57,7991,1/24/2023
+Vistara,3056,Mumbai,Morning,1,Afternoon,Goa,Economy,2.43,43,8227,1/25/2023
+Vistara,7917,Bangalore,Morning,2,Evening,Goa,Business,2.07,17,11258,1/26/2023
+Air India,4144,Bangalore,Evening,2,Afternoon,Pune,Economy,2.73,58,9833,1/27/2023
+Vistara,1552,Delhi,Night,1,Afternoon,Goa,Business,1.37,14,4886,1/28/2023
+SpiceJet,9907,Chennai,Evening,2,Evening,Kolkata,Economy,3.99,29,4653,1/29/2023
+SpiceJet,6383,Delhi,Night,2,Night,Pune,Economy,1.05,20,11280,1/30/2023
+IndiGo,4911,Bangalore,Afternoon,2,Afternoon,Pune,Economy,3.58,30,14577,1/1/2023
+Vistara,4389,Mumbai,Evening,1,Afternoon,Pune,Business,1.73,19,6864,1/2/2023
+Air India,9442,Delhi,Morning,0,Evening,Hyderabad,Business,1.93,53,4514,1/3/2023
+SpiceJet,3430,Delhi,Afternoon,0,Night,Hyderabad,Economy,3.54,39,5969,1/4/2023
+SpiceJet,1458,Mumbai,Morning,1,Afternoon,Goa,Business,4.97,56,5284,1/5/2023
+Air India,1207,Delhi,Afternoon,0,Afternoon,Pune,Economy,4.11,13,9740,1/6/2023
+Air India,1899,Mumbai,Evening,2,Night,Pune,Business,1.9,18,6566,1/7/2023
+SpiceJet,1021,Chennai,Night,0,Afternoon,Kolkata,Business,1.7,23,4196,1/8/2023
+SpiceJet,9601,Mumbai,Afternoon,2,Night,Goa,Economy,4.46,46,14375,1/9/2023
+Air India,1894,Chennai,Night,0,Night,Kolkata,Economy,2.78,33,2789,1/10/2023
+SpiceJet,1514,Mumbai,Afternoon,1,Evening,Goa,Economy,1.55,39,5475,1/11/2023
+IndiGo,8294,Bangalore,Morning,0,Morning,Goa,Economy,4.45,40,13345,1/12/2023
+IndiGo,5904,Bangalore,Morning,0,Night,Hyderabad,Economy,4.26,18,11856,1/13/2023
+Air India,8867,Chennai,Afternoon,0,Evening,Hyderabad,Business,4.94,9,3309,1/14/2023
+Vistara,5109,Chennai,Night,1,Morning,Kolkata,Business,4.64,33,2864,1/15/2023
+Air India,8179,Bangalore,Evening,0,Afternoon,Goa,Economy,4.41,32,14055,1/16/2023
+Air India,2560,Chennai,Evening,1,Morning,Pune,Economy,1.21,54,7389,1/17/2023
+Vistara,2266,Mumbai,Morning,2,Night,Hyderabad,Economy,1.42,17,5363,1/18/2023
+Vistara,4638,Mumbai,Evening,0,Night,Pune,Business,3.28,19,13716,1/19/2023
+Vistara,9941,Bangalore,Morning,1,Night,Kolkata,Economy,3.13,27,13978,1/20/2023
+IndiGo,4427,Delhi,Evening,1,Night,Hyderabad,Economy,2.83,6,10215,1/21/2023
+SpiceJet,5780,Mumbai,Afternoon,0,Night,Hyderabad,Business,2.59,35,5003,1/22/2023
+IndiGo,2927,Chennai,Morning,2,Evening,Goa,Business,2.72,56,10502,1/23/2023
+SpiceJet,3356,Delhi,Morning,1,Night,Kolkata,Business,3.28,37,3231,1/24/2023
+IndiGo,5790,Delhi,Afternoon,0,Evening,Goa,Business,1.01,34,9959,1/25/2023
+SpiceJet,1306,Mumbai,Morning,2,Afternoon,Hyderabad,Economy,2.04,20,13980,1/26/2023
+IndiGo,8979,Mumbai,Evening,1,Night,Kolkata,Business,3.07,25,4711,1/27/2023
+Vistara,4665,Delhi,Evening,1,Night,Hyderabad,Business,3.89,4,8581,1/28/2023
+Air India,8057,Delhi,Morning,2,Morning,Kolkata,Economy,1.7,10,9705,1/29/2023
+IndiGo,1661,Bangalore,Evening,2,Afternoon,Hyderabad,Economy,3.19,10,14993,1/30/2023
+SpiceJet,5644,Chennai,Night,0,Night,Pune,Economy,3.86,24,2421,1/1/2023
+Vistara,9503,Bangalore,Morning,0,Night,Pune,Business,2.78,21,11965,1/2/2023
+IndiGo,3920,Mumbai,Afternoon,1,Afternoon,Goa,Economy,1.11,11,13760,1/3/2023
+IndiGo,9946,Bangalore,Night,2,Evening,Pune,Business,2.8,27,2946,1/4/2023
+Vistara,7236,Bangalore,Morning,2,Night,Hyderabad,Business,2.19,16,11378,1/5/2023
+IndiGo,7078,Bangalore,Afternoon,2,Morning,Hyderabad,Business,4.72,26,3834,1/6/2023
+Air India,1352,Bangalore,Evening,1,Night,Pune,Economy,1.5,30,3564,1/7/2023
+IndiGo,8005,Chennai,Afternoon,2,Morning,Goa,Business,3.61,49,9332,1/8/2023
+Air India,1158,Chennai,Night,2,Morning,Pune,Economy,1.21,16,6944,1/9/2023
+Air India,1956,Delhi,Evening,1,Night,Kolkata,Economy,2.78,7,12139,1/10/2023
+Vistara,3071,Mumbai,Morning,0,Night,Kolkata,Economy,3.22,16,3308,1/11/2023
+IndiGo,9595,Bangalore,Evening,0,Morning,Kolkata,Business,2.19,35,4986,1/12/2023
+Vistara,4453,Delhi,Morning,1,Afternoon,Pune,Business,2.82,58,2386,1/13/2023
+IndiGo,7675,Delhi,Morning,2,Afternoon,Pune,Business,1.65,16,8131,1/14/2023
+IndiGo,1955,Delhi,Afternoon,1,Night,Pune,Economy,2.22,40,11353,1/15/2023
+SpiceJet,7295,Chennai,Afternoon,0,Evening,Kolkata,Business,3.48,12,5258,1/16/2023
+IndiGo,2712,Bangalore,Afternoon,0,Afternoon,Goa,Business,2.21,35,8121,1/17/2023
+Vistara,5703,Bangalore,Night,1,Night,Hyderabad,Business,4.6,49,6811,1/18/2023
+Air India,7563,Mumbai,Night,1,Afternoon,Pune,Business,3.51,21,8574,1/19/2023
+IndiGo,6631,Bangalore,Afternoon,0,Evening,Goa,Business,2.75,50,8697,1/20/2023
+SpiceJet,2394,Bangalore,Night,1,Night,Hyderabad,Economy,1.16,43,5933,1/21/2023
+Vistara,5732,Delhi,Evening,0,Evening,Hyderabad,Economy,3.0,36,13039,1/22/2023
+IndiGo,4714,Mumbai,Evening,1,Night,Hyderabad,Economy,4.06,48,14713,1/23/2023
+Vistara,1529,Bangalore,Night,1,Evening,Goa,Economy,2.06,17,3439,1/24/2023
+SpiceJet,3958,Chennai,Night,1,Afternoon,Goa,Business,4.23,32,8169,1/25/2023
+SpiceJet,8904,Bangalore,Evening,0,Afternoon,Kolkata,Economy,2.01,41,13634,1/26/2023
+Vistara,4591,Delhi,Morning,1,Evening,Goa,Business,4.29,6,6480,1/27/2023
+IndiGo,7895,Chennai,Evening,0,Evening,Goa,Economy,1.34,24,2055,1/28/2023
+Air India,1525,Delhi,Evening,0,Evening,Goa,Economy,4.46,27,5324,1/29/2023
+SpiceJet,7477,Bangalore,Night,1,Night,Hyderabad,Economy,3.0,20,8777,1/30/2023
+IndiGo,1001,Chennai,Evening,1,Afternoon,Pune,Business,2.19,25,2105,1/1/2023
+IndiGo,1374,Mumbai,Night,0,Night,Kolkata,Business,2.06,2,5201,1/2/2023
+Air India,5648,Mumbai,Night,0,Afternoon,Pune,Economy,2.73,9,2669,1/3/2023
+SpiceJet,3365,Chennai,Afternoon,2,Morning,Pune,Business,5.0,28,14663,1/4/2023
+SpiceJet,2525,Chennai,Evening,0,Night,Goa,Economy,1.88,53,10934,1/5/2023
+IndiGo,2646,Delhi,Morning,2,Afternoon,Kolkata,Economy,1.41,38,2966,1/6/2023
+IndiGo,1013,Chennai,Afternoon,2,Afternoon,Pune,Economy,3.34,3,2307,1/7/2023
+Air India,5599,Delhi,Night,2,Night,Pune,Business,2.95,20,4138,1/8/2023
+Air India,3278,Bangalore,Night,1,Night,Kolkata,Economy,3.1,6,13656,1/9/2023
+SpiceJet,4155,Delhi,Morning,1,Afternoon,Goa,Economy,3.67,39,2109,1/10/2023
+Vistara,9321,Chennai,Night,0,Night,Pune,Economy,2.07,33,5632,1/11/2023
+SpiceJet,4814,Chennai,Evening,2,Evening,Hyderabad,Business,4.64,55,8728,1/12/2023
+IndiGo,4216,Bangalore,Afternoon,1,Night,Pune,Economy,2.74,1,14627,1/13/2023
+SpiceJet,9219,Chennai,Night,1,Night,Hyderabad,Business,1.52,37,7684,1/14/2023
+Vistara,3113,Chennai,Night,1,Night,Goa,Economy,3.97,6,8499,1/15/2023
+Air India,5356,Mumbai,Morning,1,Afternoon,Pune,Business,3.57,45,3915,1/16/2023
+Vistara,6543,Mumbai,Evening,1,Evening,Kolkata,Economy,2.26,34,14455,1/17/2023
+Vistara,5555,Bangalore,Night,2,Morning,Kolkata,Economy,3.49,47,2556,1/18/2023
+Vistara,8062,Delhi,Morning,2,Morning,Pune,Business,1.88,15,9619,1/19/2023
+Air India,4374,Mumbai,Night,2,Evening,Goa,Business,2.78,45,2104,1/20/2023
+Vistara,7430,Delhi,Morning,2,Evening,Goa,Economy,4.6,26,4047,1/21/2023
+Vistara,4466,Chennai,Morning,0,Evening,Kolkata,Business,1.53,57,2145,1/22/2023
+Vistara,4081,Mumbai,Evening,2,Afternoon,Pune,Economy,2.55,14,12955,1/23/2023
+IndiGo,1629,Bangalore,Night,1,Morning,Goa,Economy,4.28,58,2873,1/24/2023
+Vistara,1269,Bangalore,Evening,2,Evening,Kolkata,Economy,4.88,54,2298,1/25/2023
+Air India,6724,Bangalore,Morning,0,Afternoon,Hyderabad,Business,2.82,7,5238,1/26/2023
+Vistara,6897,Mumbai,Afternoon,1,Morning,Pune,Economy,3.03,46,10837,1/27/2023
+Vistara,4432,Delhi,Night,2,Night,Hyderabad,Business,3.29,58,14925,1/28/2023
+Air India,7276,Chennai,Afternoon,2,Afternoon,Hyderabad,Economy,4.73,31,8382,1/29/2023
+Vistara,6895,Delhi,Night,2,Morning,Goa,Business,4.43,24,13270,1/30/2023
+Air India,8115,Delhi,Evening,1,Afternoon,Goa,Business,1.68,59,4511,1/1/2023
+Vistara,7656,Chennai,Evening,1,Morning,Goa,Economy,2.75,31,8596,1/2/2023
+Air India,1575,Chennai,Evening,0,Morning,Pune,Business,2.86,29,2783,1/3/2023
+Vistara,8029,Mumbai,Evening,1,Night,Hyderabad,Economy,4.16,42,6992,1/4/2023
+Vistara,7099,Mumbai,Evening,1,Afternoon,Pune,Economy,3.41,32,2370,1/5/2023
+IndiGo,4192,Mumbai,Afternoon,2,Evening,Goa,Economy,3.62,17,2486,1/6/2023
+IndiGo,4178,Mumbai,Evening,1,Night,Hyderabad,Economy,4.99,14,9378,1/7/2023
+Vistara,7052,Mumbai,Morning,2,Night,Pune,Economy,1.3,40,12229,1/8/2023
+Vistara,3734,Chennai,Morning,2,Morning,Pune,Business,1.89,36,5196,1/9/2023
+SpiceJet,7116,Delhi,Afternoon,1,Evening,Kolkata,Economy,2.63,58,11552,1/10/2023
