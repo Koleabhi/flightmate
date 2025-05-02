@@ -1,24 +1,24 @@
-﻿# FlightMate
+markdown
 # FlightMate - Flight Price Prediction
 
 ## Setup Instructions
 
 1. Clone the repository:
    ```bash
-   git clone https://github.com/your-username/flightmate.git
+   git clone https://github.com/Koleabhi/flightmate
    cd flightmate
-   ```
+Generate required files:
 
-2. Download data files:
-   - [Download clean_flight_dataset.csv](your-download-link) and place in `backend/data/`
-   - [Download price_model.pkl](your-download-link) and place in `backend/models/`
+Run notebooks/model_training.ipynb to create price_model.pkl in backend/models/
 
-3. Install dependencies:
-   ```bash
-   pip install -r backend/requirements.txt
-   ```
+Place your flight data as clean_flight_dataset.csv in backend/data/
 
-4. Run the application:
-   ```bash
-   python backend/app.py
-   ```
+Install dependencies:
+
+bash
+pip install -r backend/requirements.txt
+Run the application:
+
+bash
+python backend/app.py
+
