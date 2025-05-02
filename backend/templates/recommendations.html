@@ -1,0 +1,71 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <title>Flight Recommendations</title>
+    <link href="https://cdn.jsdelivr.net/npm/bootstrap@5.3.0/dist/css/bootstrap.min.css" rel="stylesheet">
+</head>
+<body>
+    <div class="container mt-5">
+        <h2 class="mb-4">Flight Recommendations</h2>
+        
+        <div class="card mb-4">
+            <div class="card-header bg-primary text-white">
+                Your Search Criteria
+            </div>
+            <div class="card-body">
+                <p><strong>Route:</strong> {{ input_data.source_city }} to {{ input_data.destination_city }}</p>
+                <p><strong>Class:</strong> {{ input_data.class }}</p>
+                <p><strong>Days Before Departure:</strong> {{ input_data.days_left }}</p>
+            </div>
+        </div>
+
+        {% if recommendations %}
+        <div class="card mb-4">
+            <div class="card-header bg-success text-white">
+                <h4>Best Recommended Flight</h4>
+            </div>
+            <div class="card-body">
+                <div class="row">
+                    <div class="col-md-4">
+                        <h5>{{ recommendations.best_plan.airline }}</h5>
+                        <p class="text-success fw-bold">₹{{ recommendations.best_plan.price }}</p>
+                    </div>
+                    <div class="col-md-4">
+                        <p><strong>Departure:</strong> {{ recommendations.best_plan.departure_time }}</p>
+                        <p><strong>Duration:</strong> {{ recommendations.best_plan.duration }}</p>
+                    </div>
+                    <div class="col-md-4">
+                        <p><strong>Stops:</strong> {{ recommendations.best_plan.stops }}</p>
+                        <p><strong>Value Score:</strong> {{ recommendations.best_plan.score }}/1.0</p>
+                    </div>
+                </div>
+            </div>
+        </div>
+
+        <h4 class="mt-4 mb-3">Alternative Options</h4>
+        <div class="row">
+            {% for alt in recommendations.alternatives %}
+            <div class="col-md-4 mb-4">
+                <div class="card h-100">
+                    <div class="card-body">
+                        <h5>{{ alt.airline }}</h5>
+                        <p>Price: ₹{{ alt.price }}</p>
+                        <p>Departure: {{ alt.departure_time }}</p>
+                        <p>Stops: {{ alt.stops }}</p>
+                        <p>Score: {{ alt.score }}/1.0</p>
+                    </div>
+                </div>
+            </div>
+            {% endfor %}
+        </div>
+        {% else %}
+        <div class="alert alert-warning">
+            No recommendations found for these criteria.
+        </div>
+        {% endif %}
+
+        <a href="/" class="btn btn-primary mt-3">Back to Search</a>
+    </div>
+</body>
+</html>

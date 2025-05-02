@@ -1,0 +1,19 @@
+# Ignore data files
+backend/data/
+backend/models/
+
+# Ignore Python cache
+__pycache__/
+*.py[cod]
+
+# Ignore environment files
+.env
+venv/
+.env/
+
+# Ignore IDE files
+.idea/
+.vscode/
+
+# Ignore system files
+.DS_Store
